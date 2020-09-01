@@ -26,7 +26,7 @@ uusien tiedostojen lisääminen hakemistoon tai aikaisempien muokkaaminen tapaht
 
 `git log` - listaa commit-historiaa  
 
-
+`git config -l` - tsekkaa username ja tietoja
 
 ## Esimerkkitapauksia:  
 
