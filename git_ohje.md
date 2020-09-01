@@ -8,7 +8,7 @@ uusien tiedostojen lisääminen hakemistoon tai aikaisempien muokkaaminen tapaht
 
 `git status` - tarkastele huomaako git uudet tiedostot  
 
-`git add <filename>` - uusien hakemistoon lisättyjen tiedostojen lisääminen itse projektiin.  
+`git add <filename>` - uusien hakemistoon lisättyjen tiedostojen lisääminen itse projektiin. Ja esim. yhden hakemiston kaikki tiedostot `git add hakemisto/* 
 
 `git status` - tarkastele taas, tiedostot nyt lisätty  
 
