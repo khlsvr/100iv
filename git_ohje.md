@@ -10,6 +10,8 @@ uusien tiedostojen lisääminen hakemistoon tai aikaisempien muokkaaminen tapaht
 
 `git add <filename>` - uusien hakemistoon lisättyjen tiedostojen lisääminen itse projektiin. Ja esim. yhden hakemiston kaikki tiedostot `git add hakemisto/* 
 
+`git rm <filename>` - tiedostojen poisto.  
+
 `git status` - tarkastele taas, tiedostot nyt lisätty  
 
 `git commit -m "Your message about the commit"` - ajaa päivityksen ja tekee muutokset gittiin  
