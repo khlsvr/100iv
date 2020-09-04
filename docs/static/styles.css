@@ -3,12 +3,22 @@ html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, 
   padding: 0;
 }
 
+@font-face {
+    font-family: 'kenyan';
+    src: url('kenyan_coffee_rg-webfont.woff2') format('woff2'),
+         url('kenyan_coffee_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   background: #EEE;
   font-family: "myriad-pro","Myriad Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 18px;
-  line-height: 26px;
+  font-size: 13px;
+  line-height: 16px;
   color: #282B30;
+
 
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -74,12 +84,16 @@ figcaption {
   display:none;
 }
 
+span {
+transform: scale(.7, 1);
+}
+
 .container {
   width: 100%;
 }
 
 .content {
-  max-width: 1024px;
+ /* max-width: 1024px;*/
   margin: 24px auto;
   padding:2em 0;
 }
@@ -116,7 +130,7 @@ figcaption {
   max-width: 85%;
   height: auto;
   margin: 0 2px 5px 2px;
-  border: 10px solid #fff;
+  /*border: 10px solid #fff;*/
   border-radius: 2px 2px 2px 2px;
   box-shadow: 0 0 3px #B1B1B1;
   padding: 0 0 2px;
@@ -130,6 +144,11 @@ figcaption {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.fname {
+  font-family: "kenyan";
+  word-wrap: break-word;
 }
 
 .video {
@@ -182,7 +201,7 @@ figcaption {
 
 .menu-img,
 .gallery__img--secondary {
-  width: 25%;
+  width: 16%;
   float:left;
   margin-bottom: 1em;
 }
@@ -208,6 +227,25 @@ footer span:not(:last-child):after {
   content: ' - ';
 }
 
+@@media screen and (min-width: 880px) {
+body {
+zoom:125%;
+}
+  .menu-img,
+  .gallery__img--secondary {
+    /*width: 25%;*/
+  width:12.5%;
+  }
+}
+
+@media screen and (min-width: 701px) {
+  .menu-img,
+  .gallery__img--secondary {
+    /*width: 25%;*/
+  width:14.2%;
+  }
+}
+
 @media screen and (max-width: 700px) {
   h1 {
     font-size: 40px;
@@ -215,6 +253,7 @@ footer span:not(:last-child):after {
   .menu-img,
   .gallery__img--secondary {
     width: 33%;
+    font-size: 75%;
   }
 }
 
@@ -222,7 +261,8 @@ footer span:not(:last-child):after {
 @media screen and (max-width: 500px) {
   .menu-img,
   .gallery__img--secondary {
-    width: 50%;
+   width: 33%;
+    font-size: 90%;
   }
 }
 
@@ -230,6 +270,7 @@ footer span:not(:last-child):after {
 @media screen and (max-width: 300px) {
   .menu-img,
   .gallery__img--secondary {
-    width: 100%;
+    width: 33%;
+    font-size:90%;
   }
 }
