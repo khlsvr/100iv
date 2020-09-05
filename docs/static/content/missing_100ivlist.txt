@@ -9,7 +9,6 @@ Pidgeotto
 Pidgeot
 Nidoran F
 Nidorina
-Clefable
 Zubat
 Oddish
 Parasect
@@ -42,7 +41,6 @@ Feraligatr
 Hoothoot
 Ledyba
 Spinarak
-Ariados
 Chinchou
 Pichu
 Cleffa
@@ -58,7 +56,6 @@ Sunkern
 Yanma
 Wooper
 Umbreon
-Murkrow
 Slowking
 Unown B
 Unown C
@@ -84,7 +81,6 @@ Unown W
 Unown X
 Unown Y
 Unown Z
-Wobbuffet
 Girafarig
 Heracross
 Sneasel
@@ -122,7 +118,6 @@ Loudred
 Delcatty
 Plusle
 Sharpedo
-Wailmer
 Torkoal
 Spinda #1
 Spinda #2
@@ -173,7 +168,6 @@ Chatot
 Spiritomb
 Gabite
 Munchlax
-Riolu
 Drapion
 Toxicroak
 Carnivine
@@ -204,7 +198,6 @@ Panpour
 Simipour
 Tranquill
 Blitzle
-Gigalith
 Timburr
 Gurdurr
 Throh
@@ -288,7 +281,6 @@ Witch hat Pichu
 Witch hat Pikachu
 Witch hat Raichu
 Festive hat Pichu
-Summer hat Pichu
 Summer hat Pikachu
 Summer hat Raichu
 Sunglasses Squirtle

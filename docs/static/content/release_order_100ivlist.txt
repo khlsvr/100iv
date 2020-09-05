@@ -35,7 +35,7 @@
 33_06-Jul-2016_Nidorino_jeeee7
 34_06-Jul-2016_Nidoking_kuhilasvaara
 35_06-Jul-2016_Clefairy_Vilkaskurre
-36_06-Jul-2016_Clefable
+36_06-Jul-2016_Clefable_JawBreaker247
 37_06-Jul-2016_Vulpix_JonnaMaaria
 38_06-Jul-2016_Ninetales_Scriabinist
 39_06-Jul-2016_Jigglypuff_JonnaMaaria
@@ -173,7 +173,7 @@
 170_16-Feb-2017_Ledyba
 171_16-Feb-2017_Ledian_JonnaMaaria
 172_16-Feb-2017_Spinarak
-173_16-Feb-2017_Ariados
+173_16-Feb-2017_Ariados_moogleheksa
 174_16-Feb-2017_Crobat_Hannaleea
 175_16-Feb-2017_Chinchou
 176_16-Feb-2017_Lanturn_Hannaleea
@@ -198,7 +198,7 @@
 195_16-Feb-2017_Quagsire_jeeee7
 196_16-Feb-2017_Espeon_kuhilasvaara
 197_16-Feb-2017_Umbreon
-198_16-Feb-2017_Murkrow
+198_16-Feb-2017_Murkrow_JonnaMaaria
 199_16-Feb-2017_Slowking
 200_16-Feb-2017_Misdreavus_kuhilasvaara
 201_16-Feb-2017_Unown_A_BarleFIN
@@ -227,7 +227,7 @@
 224_16-Feb-2017_Unown_X
 225_16-Feb-2017_Unown_Y
 226_16-Feb-2017_Unown_Z
-227_16-Feb-2017_Wobbuffet
+227_16-Feb-2017_Wobbuffet_kuhilasvaara
 228_16-Feb-2017_Girafarig
 229_16-Feb-2017_Pineco_Bambjuu
 230_16-Feb-2017_Forretress_kuhilasvaara
@@ -346,7 +346,7 @@
 343_21-Dec-2017_Ludicolo_larehunter1966
 344_21-Dec-2017_Carvanha_Maruslar
 345_21-Dec-2017_Sharpedo
-346_21-Dec-2017_Wailmer
+346_21-Dec-2017_Wailmer_moogleheksa
 347_21-Dec-2017_Wailord_Hannaleea
 348_21-Dec-2017_Barboach_JonnaMaaria
 349_21-Dec-2017_Whiscash_1954Erik
@@ -426,8 +426,8 @@
 422_21-Jun-2018_Regice_Riksu91
 423_23-Jun-2018_Alolan_Rattata_Hannaleea
 424_23-Jun-2018_Alolan_Raticate_jeeee7
-425_05-Jul-2018_Summer_hat_Pichu
-426_05-Jul-2018_Summet_hat_Pikachu
+425_05-Jul-2018_Summer_hat_Pichu_moogleheksa
+426_05-Jul-2018_Summer_hat_Pikachu
 427_05-Jul-2018_Summer_hat_Raichu
 428_08-Jul-2018_Sunglasses_Squirtle
 429_08-Jul-2018_Sunglasses_Wartortle
@@ -472,7 +472,7 @@
 468_16-Oct-2018_Buneary_JonnaMaaria
 469_16-Oct-2018_Lopunny_Hannaleea
 470_16-Oct-2018_Chatot
-471_16-Oct-2018_Riolu
+471_16-Oct-2018_Riolu_JawBreaker247
 472_16-Oct-2018_Lucario_Tarliu
 473_16-Oct-2018_Carnivine
 474_23-Oct-2018_Drifloon_kuhilasvaara
@@ -890,7 +890,7 @@
 884_02-Jan-2020_Party_hat_Wurmple
 885_10-Jan-2020_Roggenrola_Maruslar
 886_10-Jan-2020_Boldore_Simpanssi93
-887_10-Jan-2020_Gigalith
+887_10-Jan-2020_Gigalith_moogleheksa
 888_10-Jan-2020_Timburr
 889_10-Jan-2020_Gurdurr
 890_10-Jan-2020_Conkeldurr_Luumuomena
