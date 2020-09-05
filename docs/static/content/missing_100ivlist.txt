@@ -154,8 +154,6 @@ Deoxys attack
 Deoxys defence
 
 Gen4
-Staravia
-Staraptor
 Bidoof
 Budew
 Burmy sandy
@@ -409,7 +407,6 @@ Purified Vileplume
 Shadow Venonat
 Purified Venonat
 Shadow Venomoth
-Purified Venomoth
 Shadow Psyduck
 Purified Psyduck
 Shadow Golduck

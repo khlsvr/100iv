@@ -459,8 +459,8 @@
 455_16-Oct-2018_Prinplup_Tarliu
 456_16-Oct-2018_Empoleon_Simpanssi93
 457_16-Oct-2018_Starly_jeeee7
-458_16-Oct-2018_Staravia
-459_16-Oct-2018_Staraptor
+458_16-Oct-2018_Staravia_Hepsku
+459_16-Oct-2018_Staraptor_jeeee7
 460_16-Oct-2018_Bidoof
 461_16-Oct-2018_Bibarel_Juhizo
 462_16-Oct-2018_Kricketot_JonnaMaaria	
@@ -681,7 +681,7 @@
 676_05-Sep-2019_Shadow_Venonat
 677_05-Sep-2019_Purified_Venonat
 678_05-Sep-2019_Shadow_Venomoth
-679_05-Sep-2019_Purified_Venomoth
+679_05-Sep-2019_Purified_Venomoth_Hepsku
 680_05-Sep-2019_Shadow_Psyduck
 681_05-Sep-2019_Purified_Psyduck
 682_05-Sep-2019_Shadow_Golduck
