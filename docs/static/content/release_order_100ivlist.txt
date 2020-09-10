@@ -15,7 +15,7 @@
 13_06-Jul-2016_Weedle_Vilkaskurre
 14_06-Jul-2016_Kakuna_Tarliu
 15_06-Jul-2016_Beedrill_JonnaMaaria
-16_06-Jul-2016_Pidgey
+16_06-Jul-2016_Pidgey_Tupladekki
 17_06-Jul-2016_Pidgeotto
 18_06-Jul-2016_Pidgeot
 19_06-Jul-2016_Rattata_Teijahunter
@@ -42,11 +42,11 @@
 40_06-Jul-2016_Wigglytuff_Tarliu
 41_06-Jul-2016_Zubat
 42_06-Jul-2016_Golbat_kuhilasvaara
-43_06-Jul-2016_Oddish
+43_06-Jul-2016_Oddish_Chabbychic
 44_06-Jul-2016_Gloom_kuhilasvaara
 45_06-Jul-2016_Vileplume_Teijahunter
-46_06-Jul-2016_Paras_kuhilasvaara
-47_06-Jul-2016_Parasect
+46_06-Jul-2016_Paras_Chabbychic
+47_06-Jul-2016_Parasect_kuhilasvaara
 48_06-Jul-2016_Venonat_JonnaMaaria
 49_06-Jul-2016_Venomoth_kuhilasvaara
 50_06-Jul-2016_Diglett_chocoSaana
@@ -110,7 +110,7 @@
 108_06-Jul-2016_Lickitung_JonnaMaaria
 109_06-Jul-2016_Koffing_jeeee7
 110_06-Jul-2016_Weezing_MeiMaaria
-111_06-Jul-2016_Rhyhorn
+111_06-Jul-2016_Rhyhorn_Vanillaharakka
 112_06-Jul-2016_Rhydon_kuhilasvaara
 113_06-Jul-2016_Chansey_BarleFIN
 114_06-Jul-2016_Tangela_Dreamful2
@@ -152,7 +152,7 @@
 150_12-Dec-2016_Togepi
 151_12-Dec-2016_Togetic
 152_12-Dec-2016_Smoochum
-153_12-Dec-2016_Elekid
+153_12-Dec-2016_Elekid_Tupladekki
 154_12-Dec-2016_Magby
 155_25-Dec-2016_Festive_hat_Pikachu
 156_25-Dec-2016_Festive_hat_Raichu
@@ -193,7 +193,7 @@
 190_16-Feb-2017_Aipom_kuhilasvaara
 191_16-Feb-2017_Sunkern
 192_16-Feb-2017_Sunflora_Bambjuu
-193_16-Feb-2017_Yanma
+193_16-Feb-2017_Yanma_Chabbychic
 194_16-Feb-2017_Wooper
 195_16-Feb-2017_Quagsire_jeeee7
 196_16-Feb-2017_Espeon_kuhilasvaara
@@ -228,7 +228,7 @@
 225_16-Feb-2017_Unown_Y
 226_16-Feb-2017_Unown_Z
 227_16-Feb-2017_Wobbuffet_kuhilasvaara
-228_16-Feb-2017_Girafarig
+228_16-Feb-2017_Girafarig_Tupladekki
 229_16-Feb-2017_Pineco_Bambjuu
 230_16-Feb-2017_Forretress_kuhilasvaara
 231_16-Feb-2017_Dunsparce_kuhilasvaara
@@ -337,7 +337,7 @@
 334_08-Dec-2017_Zangoose_Luummuomena
 335_08-Dec-2017_Seviper_kuhilasvaara
 336_08-Dec-2017_Absol
-337_08-Dec-2017_Wynaut
+337_08-Dec-2017_Wynaut_Tupladekki
 338_15-Dec-2017_Groudon_JonnaMaaria
 339_21-Dec-2017_Festive_hat_Pichu
 340_21-Dec-2017_Delibird_jeeee7
@@ -377,7 +377,7 @@
 373_23-Jan-2018_Vibrava
 374_23-Jan-2018_Flygon_JonnaMaaria
 375_23-Jan-2018_Cacnea_kuhilasvaara
-376_23-Jan-2018_Cacturne
+376_23-Jan-2018_Cacturne_Riskela
 377_23-Jan-2018_Lunatone_JonnaMaaria
 378_23-Jan-2018_Solrock_JonnaMaaria
 379_23-Jan-2018_Baltoy_JonnaMaaria
@@ -627,11 +627,11 @@
 622_22-Jul-2019_Shadow_Crobat
 623_22-Jul-2019_Purified_Crobat_JonnaMaaria
 624_22-Jul-2019_Shadow_Mudkip
-625_22-Jul-2019_Purified_Mudkip
+625_22-Jul-2019_Purified_Mudkip_Chabbychic
 626_22-Jul-2019_Shadow_Marshtomp
 627_22-Jul-2019_Purified_Marshtomp
 628_22-Jul-2019_Shadow_Swampert
-629_22-Jul-2019_Purified_Swampert
+629_22-Jul-2019_Purified_Swampert_Tupladekki
 630_01-Aug-2019_Shadow_Poliwag
 631_01-Aug-2019_Purified_Poliwag
 632_01-Aug-2019_Shadow_Poliwhirl
@@ -727,7 +727,7 @@
 722_16-Sep-2019_Herdier_Nitatsupikatsu
 723_16-Sep-2019_Stoutland_kuhilasvaara
 724_16-Sep-2019_Purrloin_Maruslar
-725_16-Sep-2019_Liepard
+725_16-Sep-2019_Liepard_Tupladekki
 726_16-Sep-2019_Pansage
 727_16-Sep-2019_Simisage
 728_16-Sep-2019_Pansear_kuhilasvaara
@@ -1072,6 +1072,6 @@
 1066_14-Aug-2020_Swadloon
 1067_14-Aug-2020_Leavanny
 1068_14-Aug-2020_Cottonee_Hannaleea
-1069_14-Aug-2020_Whimsicott
+1069_14-Aug-2020_Whimsicott_kuhilasvaara
 1070_14-Aug-2020_Emolga
 1071_14-Aug-2020_Bouffalant

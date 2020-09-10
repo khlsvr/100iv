@@ -4,14 +4,11 @@ Charmander
 Charmeleon
 Squirtle
 Caterpie
-Pidgey
 Pidgeotto
 Pidgeot
 Nidoran F
 Nidorina
 Zubat
-Oddish
-Parasect
 Abra
 Kadabra
 Geodude
@@ -20,7 +17,6 @@ Magnemite
 Magneton
 Hypno
 Krabby
-Rhyhorn
 Kangaskhan
 Horsea
 Seadra
@@ -53,7 +49,6 @@ Sudowoodo
 Skiploom
 Jumpluff
 Sunkern
-Yanma
 Wooper
 Umbreon
 Slowking
@@ -81,7 +76,6 @@ Unown W
 Unown X
 Unown Y
 Unown Z
-Girafarig
 Heracross
 Sneasel
 Slugma
@@ -93,7 +87,6 @@ Phanpy
 Donphan
 Smeargle
 Smoochum
-Elekid
 Magby
 Ho-oh
 Celebi
@@ -128,13 +121,11 @@ Spinda #8
 Spinda #9
 Trapinch
 Vibrava
-Cacturne
 Castform snowy
 Duskull
 Dusclops
 Tropius
 Absol
-Wynaut
 Huntail
 Gorebyss
 Relicanth
@@ -190,7 +181,6 @@ Darkrai
 
 Gen5
 Serperior
-Liepard
 Pansage
 Simisage
 Simisear
@@ -204,7 +194,6 @@ Throh
 Sewaddle
 Swadloon
 Leavanny
-Whimsicott
 Petilil
 Lilligant
 Basculin
@@ -355,11 +344,9 @@ Shadow Dragonite
 Purified Dragonite
 Shadow Crobat
 Shadow Mudkip
-Purified Mudkip
 Shadow Marshtomp
 Purified Marshtomp
 Shadow Swampert
-Purified Swampert
 Shadow Poliwag
 Purified Poliwag
 Shadow Poliwhirl
