@@ -1,14 +1,11 @@
 Gen1
-Ivysaur
 Charmander
 Charmeleon
 Squirtle
-Caterpie
 Pidgeotto
 Pidgeot
 Nidoran F
 Nidorina
-Zubat
 Abra
 Kadabra
 Geodude
@@ -38,9 +35,7 @@ Hoothoot
 Ledyba
 Spinarak
 Chinchou
-Pichu
 Cleffa
-Igglybuff
 Togepi
 Togetic
 Mareep
@@ -48,7 +43,6 @@ Flaaffy
 Sudowoodo
 Skiploom
 Jumpluff
-Sunkern
 Wooper
 Umbreon
 Slowking
@@ -100,7 +94,6 @@ Mightyena
 Silcoon
 Seedot
 Nuzleaf
-Shiftry
 Wingull
 Pelipper
 Shroomish
@@ -133,18 +126,14 @@ Bagon
 Shelgon
 Beldum
 Metang
-Regirock
 Latias
 Jirachi
 Deoxys attack
 Deoxys defence
 
 Gen4
-Bidoof
-Budew
 Burmy sandy
 Wormadam plant
-Wormadam sandy
 Wormadam trash
 Mothim
 Vespiquen
@@ -160,13 +149,11 @@ Spiritomb
 Gabite
 Munchlax
 Drapion
-Toxicroak
 Carnivine
 Finneon
 Lumineon
 Mantyke
 Weavile
-Yanmega
 Gliscor
 Probopass
 Dusknoir
@@ -209,9 +196,6 @@ Gothorita
 Gothitelle
 Solosis
 Duosion
-Reuniclus
-Ducklett
-Emolga
 Amoonguss
 Alomomola
 Galvantula
@@ -242,8 +226,6 @@ Zekrom
 Landorus
 
 Alola & Galar
-Alolan Exeggutor
-Alolan Sandshrew
 Alolan Sandslash
 Alolan Ninetales
 Alolan Persian
@@ -289,7 +271,6 @@ Flower crown Glaceon
 Straw hat Pikachu
 Shedinja hat Bulbasaur
 Yamask hat Squirtle
-Winter hat Pikachu
 Winter hat Raichu
 Holiday Stantler
 Party hat Raticate
@@ -312,7 +293,6 @@ Flower crown Togepi
 Flower crown Buneary
 Charizard hat Pikachu
 Umbreon hat Pikachu
-Rayquaza hat Pikachu
 Lucario hat Pikachu
 Pikachu visor Charmander
 Pikachu visor Squirtle
@@ -354,7 +334,6 @@ Shadow Poliwrath
 Purified Poliwrath
 Shadow Grimer
 Shadow Muk
-Purified Muk
 Shadow Drowzee
 Shadow Hypno
 Shadow Cubone
@@ -420,7 +399,6 @@ Purified Beedrill
 Shadow Electabuzz
 Shadow Magmar
 Purified Magmar
-Shadow Lapras
 Shadow Mareep
 Purified Mareep
 Shadow Flaaffy
@@ -517,9 +495,7 @@ Purified Ninetales
 Shadow Exeggcute
 Purified Exeggcute
 Shadow Exeggutor
-Purified Exeggutor
 Shadow Pinsir
-Purified Pinsir
 Shadow Omanyte
 Purified Omanyte
 Shadow Omastar
@@ -540,7 +516,6 @@ Shadow Mismagius
 Purified Mismagius
 Shadow Entei
 Purified Entei
-Shadow Ekans
 Purified Ekans
 Shadow Arbok
 Purified Arbok

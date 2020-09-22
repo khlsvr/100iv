@@ -1,7 +1,7 @@
 100IV-LISTA
 
 01_06-Jul-2016_Bulbasaur_kuhilasvaara
-02_06-Jul-2016_Ivysaur
+02_06-Jul-2016_Ivysaur_Kristiina0306
 03_06-Jul-2016_Venusaur_kuhilasvaara
 04_06-Jul-2016_Charmander
 05_06-Jul-2016_Charmeleon
@@ -9,7 +9,7 @@
 07_06-Jul-2016_Squirtle
 08_06-Jul-2016_Wartortle_MeiMaaria
 09_06-Jul-2016_Blastoise_Nightmare
-10_06-Jul-2016_Caterpie
+10_06-Jul-2016_Caterpie_Kristiina0306
 11_06-Jul-2016_Metapod_larehunter1966
 12_06-Jul-2016_Butterfree_Teijahunter
 13_06-Jul-2016_Weedle_Vilkaskurre
@@ -40,7 +40,7 @@
 38_06-Jul-2016_Ninetales_Scriabinist
 39_06-Jul-2016_Jigglypuff_JonnaMaaria
 40_06-Jul-2016_Wigglytuff_Tarliu
-41_06-Jul-2016_Zubat
+41_06-Jul-2016_Zubat_Kristiina0306
 42_06-Jul-2016_Golbat_kuhilasvaara
 43_06-Jul-2016_Oddish_Chabbychic
 44_06-Jul-2016_Gloom_kuhilasvaara
@@ -148,7 +148,7 @@
 146_23-Nov-2016_Ditto_kuhilasvaara
 147_12-Dec-2016_Pichu
 148_12-Dec-2016_Cleffa
-149_12-Dec-2016_Igglybuff
+149_12-Dec-2016_Igglybuff_Kristiina0306
 150_12-Dec-2016_Togepi
 151_12-Dec-2016_Togetic
 152_12-Dec-2016_Smoochum
@@ -191,7 +191,7 @@
 188_16-Feb-2017_Skiploom
 189_16-Feb-2017_Jumpluff
 190_16-Feb-2017_Aipom_kuhilasvaara
-191_16-Feb-2017_Sunkern
+191_16-Feb-2017_Sunkern_Kristiina0306
 192_16-Feb-2017_Sunflora_Bambjuu
 193_16-Feb-2017_Yanma_Chabbychic
 194_16-Feb-2017_Wooper
@@ -308,7 +308,7 @@
 305_08-Dec-2017_Dustox_Simpanssi93
 306_08-Dec-2017_Seedot
 307_08-Dec-2017_Nuzleaf
-308_08-Dec-2017_Shiftry
+308_08-Dec-2017_Shiftry_Katjuzkaah
 309_08-Dec-2017_Ralts_Harskamon
 310_08-Dec-2017_Kirlia_kuhilasvaara
 311_08-Dec-2017_Gardevoir_kuhilasvaara
@@ -415,7 +415,7 @@
 411_02-Apr-2018_Latios_kuhilasvaara
 412_29-May-2018_Alolan_Exeggutor
 413_12-Jun-2018_Unown_!
-414_21-Jun-2018_Alolan_Sandshrew
+414_21-Jun-2018_Alolan_Sandshrew_AstralSquirrel
 415_21-Jun-2018_Alolan_Sandslash
 416_21-Jun-2018_Alolan_Vulpix_Nitatsupikatsu
 417_21-Jun-2018_Alolan_Ninetales
@@ -443,7 +443,7 @@
 439_19-Jul-2018_Alolan_Marowak
 440_19-Jul-2018_Registeel_sirkkana
 441_01-Aug-2018_Spinda_#8
-442_16-Aug-2018_Regirock
+442_16-Aug-2018_Regirock_Kristiina0306
 443_01-Sep-2018_Spinda_#3_Hannaleea
 444_01-Oct-2018_Spinda_#1
 445_01-Oct-2018_Deoxys_normal_JonnaMaaria
@@ -461,7 +461,7 @@
 457_16-Oct-2018_Starly_jeeee7
 458_16-Oct-2018_Staravia_Hepsku
 459_16-Oct-2018_Staraptor_jeeee7
-460_16-Oct-2018_Bidoof
+460_16-Oct-2018_Bidoof_JonnaMaaria
 461_16-Oct-2018_Bibarel_Juhizo
 462_16-Oct-2018_Kricketot_JonnaMaaria	
 463_16-Oct-2018_Kricketune_Luumuomena
@@ -485,7 +485,7 @@
 481_01-Nov-2018_Ninjask
 482_01-Nov-2018_Shedinja_Iimako
 483_01-Nov-2018_Spinda_#7_kuhilasvaara
-484_06-Nov-2018_Budew
+484_06-Nov-2018_Budew_Kristiina0306
 485_06-Nov-2018_Buizel_Maruslar
 486_06-Nov-2018_Floatzel_Bambjuu
 487_14-Nov-2018_Roserade_NikkeW
@@ -510,7 +510,7 @@
 506_18-Dec-2018_Skorupi_Dreamful2
 507_18-Dec-2018_Drapion
 508_18-Dec-2018_Croagunk_kuhilasvaara
-509_18-Dec-2018_Toxicroak
+509_18-Dec-2018_Toxicroak_Kristiina0306
 510_18-Dec-2018_Finneon
 511_18-Dec-2018_Lumineon
 512_18-Dec-2018_Mantyke
@@ -533,7 +533,7 @@
 528_31-Jan-2019_Bonsly_Simpanssi93
 529_31-Jan-2019_Lickilicky_MeiMaaria
 530_31-Jan-2019_Tangrowth_heipyh
-531_31-Jan-2019_Yanmega
+531_31-Jan-2019_Yanmega_JuceXD
 532_31-Jan-2019_Gallade_jeeee7
 533_31-Jan-2019_Froslass
 534_13-Feb-2019_Spinda_#9
@@ -565,7 +565,7 @@
 560_17-May-2019_Burmy_sandy
 561_17-May-2019_Burmy_trash_JonnaMaaria
 562_17-May-2019_Wormadam_plant
-563_17-May-2019_Wormadam_sandy
+563_17-May-2019_Wormadam_sandy_Ellie33101
 564_17-May-2019_Wormadam_trash
 565_17-May-2019_Mothim
 566_17-May-2019_Cherubi_heipyh
@@ -641,7 +641,7 @@
 636_01-Aug-2019_Shadow_Grimer
 637_01-Aug-2019_Purified_Grimer_kuhilasvaara
 638_01-Aug-2019_Shadow_Muk
-639_01-Aug-2019_Purified_Muk
+639_01-Aug-2019_Purified_Muk_Kristiina0306
 640_01-Aug-2019_Shadow_Drowzee
 641_01-Aug-2019_Purified_Drowzee_Dreamful2
 642_01-Aug-2019_Shadow_Hypno
@@ -860,7 +860,7 @@
 855_01-Dec-2019_Purified_Zapdos
 856_17-Dec-2019_Virizion_Bambjuu
 857_24-Dec-2019_Winter_hat_Pichu_BarleFIN
-858_24-Dec-2019_Winter_hat_Pikachu
+858_24-Dec-2019_Winter_hat_Pikachu_Kristiina0306
 859_24-Dec-2019_Winter_hat_Raichu
 860_24-Dec-2019_Holiday_Stantler
 861_24-Dec-2019_Cubchoo
@@ -936,13 +936,13 @@
 930_03-Feb-2020_Shadow_Vulpix
 931_03-Feb-2020_Purified_Vulpix
 932_03-Feb-2020_Shadow_Ninetales
-933_03-Feb-2020_Purified_Ninetales
+933_03-Feb-2020_Purified_Ninetales_Vilipoke7
 934_03-Feb-2020_Shadow_Exeggcute
 935_03-Feb-2020_Purified_Exeggcute
 936_03-Feb-2020_Shadow_Exeggutor
-937_03-Feb-2020_Purified_Exeggutor
+937_03-Feb-2020_Purified_Exeggutor_aapopvp1
 938_03-Feb-2020_Shadow_Pinsir
-939_03-Feb-2020_Purified_Pinsir
+939_03-Feb-2020_Purified_Pinsir_Katjuzkaah
 940_03-Feb-2020_Shadow_Omanyte
 941_03-Feb-2020_Purified_Omanyte
 942_03-Feb-2020_Shadow_Omastar
@@ -989,7 +989,7 @@
 983_27-Mar-2020_Gothitelle
 984_27-Mar-2020_Solosis
 985_27-Mar-2020_Duosion
-986_27-Mar-2020_Reuniclus
+986_27-Mar-2020_Reuniclus_Kristiina0306
 987_31-Mar-2020_Landorus
 988_01-Apr-2020_Stunfisk
 989_09-Apr-2020_Spring_hat_Pikachu
@@ -998,7 +998,7 @@
 992_09-Apr-2020_Flower_crown_Buneary
 993_01-May-2020_Charizard_hat_Pikachu
 994_08-May-2020_Umbreon_hat_Pikachu
-995_15-May-2020_Rayquaza_hat_Pikachu
+995_15-May-2020_Rayquaza_hat_Pikachu_Kristiina0306
 996_22-May-2020_Lucario_hat_Pikachu
 997_26-May-2020_Reshiram_kuhilasvaara
 998_03-Jun-2020_Galarian_Meowth
@@ -1015,7 +1015,7 @@
 1009_03-Jul-2020_Ducklett
 1010_03-Jul-2020_Swanna_MeiMaaria
 1011_07-Jul-2020_Kyurem_MeiMaaria
-1012_09-Jul-2020_Shadow_Ekans
+1012_09-Jul-2020_Shadow_Ekans_kuhilasvaara
 1013_09-Jul-2020_Purified_Ekans
 1014_09-Jul-2020_Shadow_Arbok
 1015_09-Jul-2020_Purified_Arbok
@@ -1073,5 +1073,5 @@
 1067_14-Aug-2020_Leavanny
 1068_14-Aug-2020_Cottonee_Hannaleea
 1069_14-Aug-2020_Whimsicott_kuhilasvaara
-1070_14-Aug-2020_Emolga
+1070_14-Aug-2020_Emolga_Kristiina0306
 1071_14-Aug-2020_Bouffalant
