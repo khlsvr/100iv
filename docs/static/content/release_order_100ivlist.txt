@@ -146,7 +146,7 @@
 144_06-Jul-2016_Dragonair
 145_06-Jul-2016_Dragonite_Teijahunter
 146_23-Nov-2016_Ditto_kuhilasvaara
-147_12-Dec-2016_Pichu
+147_12-Dec-2016_Pichu_JuceXD
 148_12-Dec-2016_Cleffa
 149_12-Dec-2016_Igglybuff_Kristiina0306
 150_12-Dec-2016_Togepi
@@ -413,7 +413,7 @@
 409_30-Mar-2018_Mew
 410_02-Apr-2018_Latias
 411_02-Apr-2018_Latios_kuhilasvaara
-412_29-May-2018_Alolan_Exeggutor
+412_29-May-2018_Alolan_Exeggutor_ForestMaria
 413_12-Jun-2018_Unown_!
 414_21-Jun-2018_Alolan_Sandshrew_AstralSquirrel
 415_21-Jun-2018_Alolan_Sandslash
@@ -776,7 +776,7 @@
 771_17-Oct-2019_Purified_Electabuzz_Dreamful2
 772_17-Oct-2019_Shadow_Magmar
 773_17-Oct-2019_Purified_Magmar
-774_17-Oct-2019_Shadow_Lapras
+774_17-Oct-2019_Shadow_Lapras_ForestMaria
 775_17-Oct-2019_Purified_Lapras_Maruslar
 776_17-Oct-2019_Shadow_Mareep
 777_17-Oct-2019_Purified_Mareep
@@ -1012,7 +1012,7 @@
 1006_16-Jun-2020_Zekrom
 1007_17-Jun-2020_Galarian_Farfetch'd
 1008_03-Jul-2020_Flying_Pikachu_dereksteaparty
-1009_03-Jul-2020_Ducklett
+1009_03-Jul-2020_Ducklett_JuceXD
 1010_03-Jul-2020_Swanna_MeiMaaria
 1011_07-Jul-2020_Kyurem_MeiMaaria
 1012_09-Jul-2020_Shadow_Ekans_kuhilasvaara
