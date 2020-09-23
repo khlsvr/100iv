@@ -106,7 +106,7 @@
 104_06-Jul-2016_Cubone_JonnaMaaria
 105_06-Jul-2016_Marowak_jeeee7
 106_06-Jul-2016_Hitmonlee_Teijahunter
-107_06-Jul-2016_Hitmonchan
+107_06-Jul-2016_Hitmonchan_kuhilasvaara
 108_06-Jul-2016_Lickitung_JonnaMaaria
 109_06-Jul-2016_Koffing_jeeee7
 110_06-Jul-2016_Weezing_MeiMaaria
@@ -901,7 +901,7 @@
 895_10-Jan-2020_Sawk_kuhilasvaara
 896_10-Jan-2020_Venipede_kuhilasvaara
 897_10-Jan-2020_Whirlipede_Tarliu
-898_10-Jan-2020_Scolipede
+898_10-Jan-2020_Scolipede_kuhilasvaara
 899_10-Jan-2020_Basculin_red-striped
 900_10-Jan-2020_Basculin_blue-striped
 901_10-Jan-2020_Maractus
