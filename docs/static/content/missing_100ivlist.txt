@@ -4,9 +4,7 @@ Charmeleon
 Squirtle
 Pidgeotto
 Pidgeot
-Nidoran F
 Nidorina
-Abra
 Kadabra
 Geodude
 Graveler
@@ -43,7 +41,6 @@ Flaaffy
 Sudowoodo
 Skiploom
 Jumpluff
-Wooper
 Umbreon
 Slowking
 Unown B
@@ -71,7 +68,6 @@ Unown X
 Unown Y
 Unown Z
 Heracross
-Sneasel
 Slugma
 Corsola
 Octillery
@@ -79,8 +75,6 @@ Houndour
 Houndoom
 Phanpy
 Donphan
-Smeargle
-Smoochum
 Magby
 Ho-oh
 Celebi
@@ -101,7 +95,6 @@ Breloom
 Vigoroth
 Ninjask
 Loudred
-Delcatty
 Plusle
 Sharpedo
 Torkoal
@@ -138,7 +131,6 @@ Wormadam trash
 Mothim
 Vespiquen
 Pachirisu
-Cherrim overcast
 Shellos west sea
 Shellos east sea
 Gastrodon west sea
@@ -173,7 +165,6 @@ Simisage
 Simisear
 Panpour
 Simipour
-Tranquill
 Blitzle
 Timburr
 Gurdurr
@@ -325,7 +316,6 @@ Purified Dragonite
 Shadow Crobat
 Shadow Mudkip
 Shadow Marshtomp
-Purified Marshtomp
 Shadow Swampert
 Shadow Poliwag
 Purified Poliwag
@@ -345,7 +335,6 @@ Shadow Magikarp
 Shadow Gyarados
 Purified Gyarados
 Shadow Politoed
-Purified Politoed
 Shadow Scizor
 Purified Scizor
 Purified Houndour
@@ -505,7 +494,6 @@ Shadow Mawile
 Shadow Carvanha
 Purified Carvanha
 Shadow Sharpedo
-Purified Sharpedo
 Shadow Beldum
 Purified Beldum
 Shadow Metang
@@ -520,9 +508,7 @@ Purified Ekans
 Shadow Arbok
 Purified Arbok
 Shadow Koffing
-Purified Koffing
 Shadow Weezing
-Purified Weezing
 Shadow Nidoran F
 Purified Nidoran F
 Shadow Nidorina

@@ -28,7 +28,7 @@
 26_06-Jul-2016_Raichu_MeiMaaria
 27_06-Jul-2016_Sandshrew_kuhilasvaara
 28_06-Jul-2016_Sandslash_kuhilasvaara
-29_06-Jul-2016_Nidoran_F
+29_06-Jul-2016_Nidoran_F_pmutka
 30_06-Jul-2016_Nidorina
 31_06-Jul-2016_Nidoqueen_jeeee7
 32_06-Jul-2016_Nidoran_M_BarleFIN
@@ -62,7 +62,7 @@
 60_06-Jul-2016_Poliwag_JonnaMaaria
 61_06-Jul-2016_Poliwhirl_kuhilasvaara
 62_06-Jul-2016_Poliwrath_BarleFIN
-63_06-Jul-2016_Abra
+63_06-Jul-2016_Abra_pmutka
 64_06-Jul-2016_Kadabra
 65_06-Jul-2016_Alakazam_heipyh
 66_06-Jul-2016_Machop_BarleFIN
@@ -151,7 +151,7 @@
 149_12-Dec-2016_Igglybuff_Kristiina0306
 150_12-Dec-2016_Togepi
 151_12-Dec-2016_Togetic
-152_12-Dec-2016_Smoochum
+152_12-Dec-2016_Smoochum_pmutka
 153_12-Dec-2016_Elekid_Tupladekki
 154_12-Dec-2016_Magby
 155_25-Dec-2016_Festive_hat_Pikachu
@@ -194,7 +194,7 @@
 191_16-Feb-2017_Sunkern_Kristiina0306
 192_16-Feb-2017_Sunflora_Bambjuu
 193_16-Feb-2017_Yanma_Chabbychic
-194_16-Feb-2017_Wooper
+194_16-Feb-2017_Wooper_pmutka
 195_16-Feb-2017_Quagsire_jeeee7
 196_16-Feb-2017_Espeon_kuhilasvaara
 197_16-Feb-2017_Umbreon
@@ -240,7 +240,7 @@
 237_16-Feb-2017_Scizor_vipd3s
 238_16-Feb-2017_Shuckle_kuhilasvaara
 239_16-Feb-2017_Heracross
-240_16-Feb-2017_Sneasel
+240_16-Feb-2017_Sneasel_pmutka
 241_16-Feb-2017_Teddiursa_JonnaMaaria
 242_16-Feb-2017_Ursaring_kuhilasvaara
 243_16-Feb-2017_Slugma
@@ -321,7 +321,7 @@
 318_08-Dec-2017_Hariyama_JonnaMaaria
 319_08-Dec-2017_Azurill_heipyh
 320_08-Dec-2017_Skitty_kuhilasvaara
-321_08-Dec-2017_Delcatty
+321_08-Dec-2017_Delcatty_kuhilasvaara
 322_08-Dec-2017_Mawile_SuklaaSusi3
 323_08-Dec-2017_Meditite_kuhilasvaara
 324_08-Dec-2017_Medicham_JonnaMaaria
@@ -569,7 +569,7 @@
 564_17-May-2019_Wormadam_trash
 565_17-May-2019_Mothim
 566_17-May-2019_Cherubi_heipyh
-567_17-May-2019_Cherrim_overcast
+567_17-May-2019_Cherrim_overcast_pmutka
 568_17-May-2019_Cherrim_sunshine_BarleFIN
 569_17-May-2019_Shellos_west_sea
 570_17-May-2019_Shellos_east_sea
@@ -629,7 +629,7 @@
 624_22-Jul-2019_Shadow_Mudkip
 625_22-Jul-2019_Purified_Mudkip_Chabbychic
 626_22-Jul-2019_Shadow_Marshtomp
-627_22-Jul-2019_Purified_Marshtomp
+627_22-Jul-2019_Purified_Marshtomp_JonnaMaaria
 628_22-Jul-2019_Shadow_Swampert
 629_22-Jul-2019_Purified_Swampert_Tupladekki
 630_01-Aug-2019_Shadow_Poliwag
@@ -657,7 +657,7 @@
 652_01-Aug-2019_Shadow_Gyarados
 653_01-Aug-2019_Purified_Gyarados
 654_01-Aug-2019_Shadow_Politoed
-655_01-Aug-2019_Purified_Politoed
+655_01-Aug-2019_Purified_Politoed_pmutka
 656_01-Aug-2019_Shadow_Scizor
 657_01-Aug-2019_Purified_Scizor
 658_01-Aug-2019_Shadow_Houndour_SamuFinland
@@ -954,7 +954,7 @@
 948_03-Feb-2020_Shadow_Carvanha
 949_03-Feb-2020_Purified_Carvanha
 950_03-Feb-2020_Shadow_Sharpedo
-951_03-Feb-2020_Purified_Sharpedo
+951_03-Feb-2020_Purified_Sharpedo_pmutka
 952_03-Feb-2020_Shadow_Beldum
 953_03-Feb-2020_Purified_Beldum
 954_03-Feb-2020_Shadow_Metang
@@ -1020,9 +1020,9 @@
 1014_09-Jul-2020_Shadow_Arbok
 1015_09-Jul-2020_Purified_Arbok
 1016_09-Jul-2020_Shadow_Koffing
-1017_09-Jul-2020_Purified_Koffing
+1017_09-Jul-2020_Purified_Koffing_kuhilasvaara
 1018_09-Jul-2020_Shadow_Weezing
-1019_09-Jul-2020_Purified_Weezing
+1019_09-Jul-2020_Purified_Weezing_kuhilasvaara
 1020_10-Jul-2020_Shadow_Nidoran_F
 1021_10-Jul-2020_Purified_Nidoran_F
 1022_10-Jul-2020_Shadow_Nidorina

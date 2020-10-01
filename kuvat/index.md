@@ -1,10 +1,12 @@
 Title: 100iv
 
-3 tuoreinta lisäystä:
+5 tuoreinta lisäystä:
 
-    Tranquill - JonnaMaaria
-    Purified Ninetales - Vilipoke7  
-    Ivysaur - Kristiina0306  
+    Purified Marshtomp - JonnaMaaria
+    Delcatty - kuhilasvaara 
+    Sneasel - pmutka
+    Cherrim overcast - pmutka
+    Purified Sharpedo - pmutka 
 
 [100iv list](static/content/release_order_100ivlist.txt)  
 [trade-rimpsu](static/content/trade_string.txt)  
