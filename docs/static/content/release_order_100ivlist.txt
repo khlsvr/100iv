@@ -142,8 +142,8 @@
 140_06-Jul-2016_Kabutops_Scriabinist
 141_06-Jul-2016_Aerodactyl_kuhilasvaara
 142_06-Jul-2016_Snorlax_Teijahunter
-143_06-Jul-2016_Dratini_JonnaMaaria
-144_06-Jul-2016_Dragonair
+143_06-Jul-2016_Dratini_Chabbychic
+144_06-Jul-2016_Dragonair_JonnaMaaria
 145_06-Jul-2016_Dragonite_Teijahunter
 146_23-Nov-2016_Ditto_kuhilasvaara
 147_12-Dec-2016_Pichu_JuceXD
@@ -298,7 +298,7 @@
 295_08-Dec-2017_Marshtomp_jeeee7
 296_08-Dec-2017_Swampert_JonnaMaaria
 297_08-Dec-2017_Poochyena_Dreamful2
-298_08-Dec-2017_Mightyena
+298_08-Dec-2017_Mightyena_Aliisa07
 299_08-Dec-2017_Zigzagoon_JonnaMaaria
 300_08-Dec-2017_Linoone_kuhilasvaara
 301_08-Dec-2017_Wurmple_kuhilasvaara
@@ -567,7 +567,7 @@
 562_17-May-2019_Wormadam_plant
 563_17-May-2019_Wormadam_sandy_Ellie33101
 564_17-May-2019_Wormadam_trash
-565_17-May-2019_Mothim
+565_17-May-2019_Mothim_JonnaMaaria
 566_17-May-2019_Cherubi_heipyh
 567_17-May-2019_Cherrim_overcast_pmutka
 568_17-May-2019_Cherrim_sunshine_BarleFIN
@@ -985,7 +985,7 @@
 979_13-Mar-2020_Braviary
 980_20-Mar-2020_Genesect_larehunter1966
 981_27-Mar-2020_Gothita_Bambjuu
-982_27-Mar-2020_Gothorita
+982_27-Mar-2020_Gothorita_kuhilasvaara
 983_27-Mar-2020_Gothitelle
 984_27-Mar-2020_Solosis
 985_27-Mar-2020_Duosion
@@ -1075,3 +1075,15 @@
 1069_14-Aug-2020_Whimsicott_kuhilasvaara
 1070_14-Aug-2020_Emolga_Kristiina0306
 1071_14-Aug-2020_Bouffalant
+1072_27-Aug-2020_Mega_Venusaur
+1073_27-Aug-2020_Mega_Charizard_X
+1074_27-Aug-2020_Mega_Charizard_Y
+1075_27-Aug-2020_Mega_Blastoise
+1076_27-Aug-2020_Mega_Sunglasses_Blastoise
+1077_27-Aug-2020_Mega_Beedrill
+1078_18-Sep-2020_Mega_Pidgeot
+1079_29-Sep-2020_Mega_Houndoom
+1080_02-Oct-2020_Bow_Smoochum_Luumuomena
+1081_02-Oct-2020_Top_hat_and_bowtie_Kirlia
+1082_02-Oct-2020_Top_hat_Shinx_Vilipoke7
+1083_02-Oct-2020_Baseball_cap_Croagunk_JonnaMaaria

@@ -19,7 +19,6 @@ Seaking
 Electabuzz
 Tauros
 Articuno
-Dragonair
 Mew
 
 Gen2
@@ -84,7 +83,6 @@ Grovyle
 Sceptile
 Combusken
 Mudkip
-Mightyena
 Silcoon
 Seedot
 Nuzleaf
@@ -128,7 +126,6 @@ Gen4
 Burmy sandy
 Wormadam plant
 Wormadam trash
-Mothim
 Vespiquen
 Pachirisu
 Shellos west sea
@@ -183,7 +180,6 @@ Tirtouga
 Carracosta
 Archen
 Archeops
-Gothorita
 Gothitelle
 Solosis
 Duosion
@@ -287,6 +283,7 @@ Umbreon hat Pikachu
 Lucario hat Pikachu
 Pikachu visor Charmander
 Pikachu visor Squirtle
+Bowler hat and bowtie Kirlia
 
 Shadow & Purified
 Shadow Bulbasaur
