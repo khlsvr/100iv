@@ -436,7 +436,7 @@
 432_14-Jul-2018_Alolan_Dugtrio_Hannaleea
 433_14-Jul-2018_Alolan_Geodude_Nitatsupikatsu
 434_14-Jul-2018_Alolan_Graveler_kuhilasvaara
-435_14-Jul-2018_Alolan_Golem
+435_14-Jul-2018_Alolan_Golem_ilulai
 436_14-Jul-2018_Unown_?
 437_14-Jul-2018_Celebi
 438_19-Jul-2018_Alolan_Raichu_Teijahunter
@@ -730,12 +730,12 @@
 725_16-Sep-2019_Liepard_Tupladekki
 726_16-Sep-2019_Pansage
 727_16-Sep-2019_Simisage
-728_16-Sep-2019_Pansear_kuhilasvaara
-729_16-Sep-2019_Simisear
+728_16-Sep-2019_Pansear_Noramon13
+729_16-Sep-2019_Simisear_kuhilasvaara
 730_16-Sep-2019_Panpour
 731_16-Sep-2019_Simipour
 732_16-Sep-2019_Pidove_JonnaMaaria
-733_16-Sep-2019_Tranquill
+733_16-Sep-2019_Tranquill_JonnaMaaria
 734_16-Sep-2019_Unfezant_JonnaMaaria
 735_16-Sep-2019_Blitzle
 736_16-Sep-2019_Zebstrika_Hannaleea
@@ -752,7 +752,7 @@
 747_16-Sep-2019_Lampent
 748_16-Sep-2019_Chandelure
 749_16-Sep-2019_Golett
-750_16-Sep-2019_Golurk
+750_16-Sep-2019_Golurk_Noramon13
 751_16-Sep-2019_Heatmor
 752_16-Sep-2019_Durant
 753_16-Sep-2019_Deino_JonnaMaaria
@@ -837,7 +837,7 @@
 832_07-Nov-2019_Shadow_Magneton
 833_07-Nov-2019_Purified_Magneton_chocoSaana
 834_07-Nov-2019_Shadow_Hitmonlee
-835_07-Nov-2019_Purified_Hitmonlee
+835_07-Nov-2019_Purified_Hitmonlee_Noramon13
 836_07-Nov-2019_Shadow_Porygon
 837_07-Nov-2019_Purified_Porygon
 838_07-Nov-2019_Shadow_Articuno
@@ -924,7 +924,7 @@
 918_10-Jan-2020_Shelmet_GiantSnowMidget
 919_10-Jan-2020_Accelgor_Vanillaharakka
 920_24-Jan-2020_Darumaka_Bambjuu
-921_24-Jan-2020_Darmanitan
+921_24-Jan-2020_Darmanitan_Kristiina0306
 922_29-Jan-2020_Scraggy_Vilkaskurre
 923_29-Jan-2020_Scrafty
 924_01-Feb-2020_Woobat_Bambjuu
