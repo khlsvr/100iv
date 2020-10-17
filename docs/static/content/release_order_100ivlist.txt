@@ -436,7 +436,7 @@
 432_14-Jul-2018_Alolan_Dugtrio_Hannaleea
 433_14-Jul-2018_Alolan_Geodude_Nitatsupikatsu
 434_14-Jul-2018_Alolan_Graveler_kuhilasvaara
-435_14-Jul-2018_Alolan_Golem
+435_14-Jul-2018_Alolan_Golem_ilulai
 436_14-Jul-2018_Unown_?
 437_14-Jul-2018_Celebi
 438_19-Jul-2018_Alolan_Raichu_Teijahunter
@@ -735,7 +735,7 @@
 730_16-Sep-2019_Panpour
 731_16-Sep-2019_Simipour
 732_16-Sep-2019_Pidove_JonnaMaaria
-733_16-Sep-2019_Tranquill
+733_16-Sep-2019_Tranquill_JonnaMaaria
 734_16-Sep-2019_Unfezant_JonnaMaaria
 735_16-Sep-2019_Blitzle_kuhilasvaara
 736_16-Sep-2019_Zebstrika_Hannaleea
