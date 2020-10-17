@@ -1,6 +1,4 @@
 Gen1
-Charmander
-Charmeleon
 Squirtle
 Pidgeotto
 Pidgeot
@@ -22,21 +20,17 @@ Articuno
 Mew
 
 Gen2
-Chikorita
 Cyndaquil
 Quilava
 Totodile
 Croconaw
 Feraligatr
-Hoothoot
 Ledyba
 Spinarak
 Chinchou
 Cleffa
 Togepi
 Togetic
-Mareep
-Flaaffy
 Sudowoodo
 Skiploom
 Jumpluff
@@ -70,8 +64,6 @@ Heracross
 Slugma
 Corsola
 Octillery
-Houndour
-Houndoom
 Phanpy
 Donphan
 Magby
@@ -84,7 +76,6 @@ Sceptile
 Combusken
 Mudkip
 Silcoon
-Seedot
 Nuzleaf
 Wingull
 Pelipper
@@ -129,7 +120,6 @@ Wormadam trash
 Vespiquen
 Pachirisu
 Shellos west sea
-Shellos east sea
 Gastrodon west sea
 Gastrodon east sea
 Chingling
@@ -159,10 +149,8 @@ Gen5
 Serperior
 Pansage
 Simisage
-Simisear
 Panpour
 Simipour
-Blitzle
 Timburr
 Gurdurr
 Throh
@@ -172,7 +160,9 @@ Leavanny
 Petilil
 Lilligant
 Basculin
-Darmanitan
+Sandile
+Krokorok
+Krookodile
 Maractus
 Scrafty
 Sigilyph
@@ -183,7 +173,6 @@ Archeops
 Gothitelle
 Solosis
 Duosion
-Amoonguss
 Alomomola
 Galvantula
 Ferroseed
@@ -200,13 +189,15 @@ Cubchoo
 Cryogonal
 Stunfisk
 Golett
-Golurk
+Pawniard
+Bisharp
 Bouffalant
 Rufflet
 Braviary
+Vullaby
+Mandibuzz
 Heatmor
 Durant
-Zweilous
 Hydreigon
 Thundurus
 Zekrom
@@ -229,12 +220,10 @@ Galarian Darmanitan
 Galarian Farfetch'd
 
 Eventtipoksut
-Festive hat Pikachu
 Festive hat Raichu
 Party hat Pikachu
 Party hat Raichu
 Ash hat Pichu
-Ash hat Pikachu
 Witch hat Pichu
 Witch hat Pikachu
 Witch hat Raichu
@@ -284,6 +273,8 @@ Lucario hat Pikachu
 Pikachu visor Charmander
 Pikachu visor Squirtle
 Bowler hat and bowtie Kirlia
+World cap Pikachu
+World cap Raichu
 
 Shadow & Purified
 Shadow Bulbasaur
@@ -371,7 +362,6 @@ Shadow Pupitar
 Shadow Tyranitar
 Purified Tyranitar
 Shadow Turtwig
-Purified Turtwig
 Shadow Grotle
 Purified Grotle
 Shadow Torterra
@@ -437,7 +427,6 @@ Shadow Magnemite
 Purified Magnemite
 Shadow Magneton
 Shadow Hitmonlee
-Purified Hitmonlee
 Shadow Porygon
 Purified Porygon
 Shadow Articuno
@@ -475,7 +464,6 @@ Purified Moltres
 Shadow Raikou
 Purified Raikou
 Shadow Vulpix
-Purified Vulpix
 Shadow Ninetales
 Purified Ninetales
 Shadow Exeggcute
@@ -513,7 +501,6 @@ Purified Nidorina
 Shadow Nidoqueen
 Purified Nidoqueen
 Shadow Nidoran M
-Purified Nidoran M
 Shadow Nidorino
 Purified Nidorino
 Shadow Nidoking
@@ -538,11 +525,33 @@ Purified Stunky
 Shadow Skuntank
 Purified Skuntank
 Shadow Gliscor
-Purified Gliscor
-Shadow Mewtwo
 Purified Mewtwo
-
-
-
-
+Shadow Diglett
+Purified Diglett
+Shadow Dugtrio
+Purified Dugtrio
+Shadow Slowpoke
+Purified Slowpoke
+Shadow Slowbro
+Purified Slowbro
+Shadow Shellder
+Purified Shellder
+Shadow Cloyster
+Purified Cloyster
+Shadow Aerodactyl
+Purified Aerodactyl
+Shadow Hoppip
+Purified Hoppip
+Shadow Skiploom
+Purified Skiploom
+Shadow Jumpluff
+Purified Jumpluff
+Shadow Slowking
+Purified Slowking
+Shadow Teddiursa
+Purified Teddiursa
+Shadow Ursaring
+Purified Ursaring
+Shadow Skarmory
+Purified Skarmory
 
