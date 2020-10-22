@@ -147,7 +147,7 @@
 145_06-Jul-2016_Dragonite_Teijahunter
 146_23-Nov-2016_Ditto_kuhilasvaara
 147_12-Dec-2016_Pichu_JuceXD
-148_12-Dec-2016_Cleffa
+148_12-Dec-2016_Cleffa_Emerentia280
 149_12-Dec-2016_Igglybuff_Kristiina0306
 150_12-Dec-2016_Togepi
 151_12-Dec-2016_Togetic
@@ -287,7 +287,7 @@
 284_20-Oct-2017_Banette_Hannaleea
 285_20-Oct-2017_Duskull
 286_20-Oct-2017_Dusclops
-287_27-Nov-2017_Ho-Oh
+287_27-Nov-2017_Ho-Oh_Emerentia280
 288_08-Dec-2017_Treecko_JonnaMaaria
 289_08-Dec-2017_Grovyle
 290_08-Dec-2017_Sceptile
@@ -312,7 +312,7 @@
 309_08-Dec-2017_Ralts_Harskamon
 310_08-Dec-2017_Kirlia_kuhilasvaara
 311_08-Dec-2017_Gardevoir_kuhilasvaara
-312_08-Dec-2017_Shroomish
+312_08-Dec-2017_Shroomish_MeiMaaria
 313_08-Dec-2017_Breloom
 314_08-Dec-2017_Slakoth_Kaidex
 315_08-Dec-2017_Vigoroth
@@ -506,7 +506,7 @@
 502_18-Dec-2018_Chingling
 503_18-Dec-2018_Bronzor_JonnaMaaria
 504_18-Dec-2018_Bronzong_Hannaleea
-505_18-Dec-2018_Munchlax
+505_18-Dec-2018_Munchlax_Emerentia280
 506_18-Dec-2018_Skorupi_Dreamful2
 507_18-Dec-2018_Drapion
 508_18-Dec-2018_Croagunk_kuhilasvaara
@@ -979,7 +979,7 @@
 973_01-Mar-2020_Red_party_hat_Gengar
 974_01-Mar-2020_Shadow_Entei
 975_01-Mar-2020_Purified_Entei
-976_02-Mar-2020_Thundurus
+976_02-Mar-2020_Thundurus_Emerentia280
 977_13-Mar-2020_Pikachu_Libre
 978_13-Mar-2020_Rufflet
 979_13-Mar-2020_Braviary
@@ -1121,7 +1121,7 @@
 1115_12-Oct-2020_Shadow_Slowking
 1116_12-Oct-2020_Purified_Slowking
 1117_12-Oct-2020_Shadow_Teddiursa
-1118_12-Oct-2020_Purified_Teddiursa
+1118_12-Oct-2020_Purified_Teddiursa_MeiMaaria
 1119_12-Oct-2020_Shadow_Ursaring
 1120_12-Oct-2020_Purified_Ursaring
 1121_12-Oct-2020_Shadow_Skarmory
