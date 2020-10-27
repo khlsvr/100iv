@@ -364,7 +364,7 @@
 
 361_12-Jan-2018_Kyogre_Bambjuu
 362_23-Jan-2018_Whismur_kuhilasvaara
-363_23-Jan-2018_Loudred
+363_23-Jan-2018_Loudred_MeiMaaria
 364_23-Jan-2018_Exploud_Hannaleea
 365_23-Jan-2018_Nosepass_Dreamful2
 366_23-Jan-2018_Aron_JonnaMaaria
@@ -1129,7 +1129,7 @@
 1123_22-Oct-2020_Galarian_Rapidash
 1124_22-Oct-2020_Sirfetch'd
 1125_23-Oct-2020_Mega_Gengar
-1126_23-Oct-2020_Banette-costumed_Gengar
+1126_23-Oct-2020_Mega_Banette-costumed_Gengar_sirkkana
 1127_23-Oct-2020_Litwick_hat_Sableye
 1128_23-Oct-2020_Galarian_Yamask
 1129_23-Oct-2020_Runerigus

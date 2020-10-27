@@ -80,7 +80,6 @@ Pelipper
 Breloom
 Vigoroth
 Ninjask
-Loudred
 Plusle
 Sharpedo
 Torkoal
@@ -206,7 +205,6 @@ Alolan Grimer
 Alolan Marowak
 Galarian Weezing
 Galarian Meowth
-Perrserker
 Galarian Zigzagoon
 Galarian Linoone
 Obstagoon
