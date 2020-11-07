@@ -289,7 +289,7 @@
 286_20-Oct-2017_Dusclops
 287_27-Nov-2017_Ho-Oh_Emerentia280
 288_08-Dec-2017_Treecko_JonnaMaaria
-289_08-Dec-2017_Grovyle
+289_08-Dec-2017_Grovyle_Kristiina0306
 290_08-Dec-2017_Sceptile
 291_08-Dec-2017_Torchic_jeeee7
 292_08-Dec-2017_Combusken
@@ -313,7 +313,7 @@
 310_08-Dec-2017_Kirlia_kuhilasvaara
 311_08-Dec-2017_Gardevoir_kuhilasvaara
 312_08-Dec-2017_Shroomish_MeiMaaria
-313_08-Dec-2017_Breloom
+313_08-Dec-2017_Breloom_TaatustiCrow
 314_08-Dec-2017_Slakoth_Kaidex
 315_08-Dec-2017_Vigoroth
 316_08-Dec-2017_Slaking_Riksu91
@@ -440,7 +440,7 @@
 436_14-Jul-2018_Unown_?
 437_14-Jul-2018_Celebi
 438_19-Jul-2018_Alolan_Raichu_Teijahunter
-439_19-Jul-2018_Alolan_Marowak
+439_19-Jul-2018_Alolan_Marowak_AstralSquirrel
 440_19-Jul-2018_Registeel_sirkkana
 441_01-Aug-2018_Spinda_#8
 442_16-Aug-2018_Regirock_Kristiina0306
@@ -479,7 +479,7 @@
 475_23-Oct-2018_Drifblim_JonnaMaaria
 476_23-Oct-2018_Stunky_Maruslar
 477_23-Oct-2018_Skuntank_JonnaMaaria
-478_23-Oct-2018_Spiritomb
+478_23-Oct-2018_Spiritomb_JonnaMaaria
 479_23-Oct-2018_Giratina_altered_BarleFIN
 480_01-Nov-2018_Nincada_jeeee7
 481_01-Nov-2018_Ninjask
@@ -1008,7 +1008,7 @@
 1002_03-Jun-2020_Galarian_Darmanitan
 1003_03-Jun-2020_Galarian_Stunfisk_jeeee7
 1004_03-Jun-2020_Obstagoon
-1005_03-Jun-2020_Perrserker
+1005_03-Jun-2020_Perrserker_JonnaMaaria
 1006_16-Jun-2020_Zekrom
 1007_17-Jun-2020_Galarian_Farfetch'd
 1008_03-Jul-2020_Flying_Pikachu_dereksteaparty
@@ -1026,7 +1026,7 @@
 1020_10-Jul-2020_Shadow_Nidoran_F
 1021_10-Jul-2020_Purified_Nidoran_F
 1022_10-Jul-2020_Shadow_Nidorina
-1023_10-Jul-2020_Purified_Nidorina
+1023_10-Jul-2020_Purified_Nidorina_chocoSaana
 1024_10-Jul-2020_Shadow_Nidoqueen
 1025_10-Jul-2020_Purified_Nidoqueen
 1026_10-Jul-2020_Shadow_Nidoran_M
@@ -1040,7 +1040,7 @@
 1034_10-Jul-2020_Shadow_Machoke
 1035_10-Jul-2020_Purified_Machoke
 1036_10-Jul-2020_Shadow_Machamp_1954Erik
-1037_10-Jul-2020_Purified_Machamp
+1037_10-Jul-2020_Purified_Machamp_Kristiina0306
 1038_10-Jul-2020_Shadow_Pineco
 1039_10-Jul-2020_Purified_Pineco
 1040_10-Jul-2020_Shadow_Forretress
@@ -1127,7 +1127,7 @@
 1121_12-Oct-2020_Purified_Skarmory
 1122_22-Oct-2020_Galarian_Ponyta
 1123_22-Oct-2020_Galarian_Rapidash
-1124_22-Oct-2020_Sirfetch'd
+1124_22-Oct-2020_Sirfetch'd_kuhilasvaara
 1125_23-Oct-2020_Mega_Gengar
 1126_23-Oct-2020_Mega_Banette-costumed_Gengar_sirkkana
 1127_23-Oct-2020_Litwick_hat_Sableye

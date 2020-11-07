@@ -69,7 +69,6 @@ Magby
 Celebi
 
 Gen3
-Grovyle
 Sceptile
 Combusken
 Mudkip
@@ -77,7 +76,6 @@ Silcoon
 Nuzleaf
 Wingull
 Pelipper
-Breloom
 Vigoroth
 Ninjask
 Plusle
@@ -120,7 +118,6 @@ Gastrodon west sea
 Gastrodon east sea
 Chingling
 Chatot
-Spiritomb
 Gabite
 Drapion
 Carnivine
@@ -202,7 +199,6 @@ Alolan Sandslash
 Alolan Ninetales
 Alolan Persian
 Alolan Grimer
-Alolan Marowak
 Galarian Weezing
 Galarian Meowth
 Galarian Zigzagoon
@@ -490,7 +486,6 @@ Shadow Weezing
 Shadow Nidoran F
 Purified Nidoran F
 Shadow Nidorina
-Purified Nidorina
 Shadow Nidoqueen
 Purified Nidoqueen
 Shadow Nidoran M
@@ -502,7 +497,6 @@ Shadow Machop
 Purified Machop
 Shadow Machoke
 Purified Machoke
-Purified Machamp
 Shadow Pineco
 Purified Pineco
 Shadow Forretress
