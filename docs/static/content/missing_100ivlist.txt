@@ -2,7 +2,6 @@ Gen1
 Squirtle
 Pidgeotto
 Pidgeot
-Nidorina
 Kadabra
 Geodude
 Graveler
@@ -14,13 +13,11 @@ Kangaskhan
 Horsea
 Seadra
 Seaking
-Electabuzz
 Tauros
 Articuno
 Mew
 
 Gen2
-Cyndaquil
 Quilava
 Totodile
 Croconaw
@@ -34,7 +31,6 @@ Sudowoodo
 Skiploom
 Jumpluff
 Umbreon
-Slowking
 Unown B
 Unown C
 Unown D
@@ -70,9 +66,7 @@ Celebi
 
 Gen3
 Sceptile
-Combusken
 Mudkip
-Silcoon
 Nuzleaf
 Wingull
 Pelipper
@@ -452,7 +446,6 @@ Shadow Moltres
 Purified Moltres
 Shadow Raikou
 Purified Raikou
-Shadow Vulpix
 Shadow Ninetales
 Purified Ninetales
 Shadow Exeggcute

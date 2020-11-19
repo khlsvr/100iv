@@ -29,7 +29,7 @@
 27_06-Jul-2016_Sandshrew_kuhilasvaara
 28_06-Jul-2016_Sandslash_kuhilasvaara
 29_06-Jul-2016_Nidoran_F_pmutka
-30_06-Jul-2016_Nidorina
+30_06-Jul-2016_Nidorina_kuhilasvaara
 31_06-Jul-2016_Nidoqueen_jeeee7
 32_06-Jul-2016_Nidoran_M_BarleFIN
 33_06-Jul-2016_Nidorino_jeeee7
@@ -124,7 +124,7 @@
 122_06-Jul-2016_Mr_Mime_kuhilasvaara
 123_06-Jul-2016_Scyther_kuhilasvaara
 124_06-Jul-2016_Jynx_heipyh
-125_06-Jul-2016_Electabuzz
+125_06-Jul-2016_Electabuzz_Emerentia280
 126_06-Jul-2016_Magmar_JonnaMaaria
 127_06-Jul-2016_Pinsir_Teijahunter
 128_06-Jul-2016_Tauros
@@ -160,7 +160,7 @@
 157_16-Feb-2017_Chikorita_MeiMaaria
 158_16-Feb-2017_Bayleef_MeiMaaria
 159_16-Feb-2017_Meganium_BarleFIN
-160_16-Feb-2017_Cyndaquil
+160_16-Feb-2017_Cyndaquil_Emerentia280
 161_16-Feb-2017_Quilava
 162_16-Feb-2017_Typhlosion_jeeee7
 163_16-Feb-2017_Totodile
@@ -199,7 +199,7 @@
 196_16-Feb-2017_Espeon_kuhilasvaara
 197_16-Feb-2017_Umbreon
 198_16-Feb-2017_Murkrow_JonnaMaaria
-199_16-Feb-2017_Slowking
+199_16-Feb-2017_Slowking_Bambjuu
 200_16-Feb-2017_Misdreavus_kuhilasvaara
 201_16-Feb-2017_Unown_A_BarleFIN
 202_16-Feb-2017_Unown_B
@@ -292,7 +292,7 @@
 289_08-Dec-2017_Grovyle_Kristiina0306
 290_08-Dec-2017_Sceptile
 291_08-Dec-2017_Torchic_jeeee7
-292_08-Dec-2017_Combusken
+292_08-Dec-2017_Combusken_JonnaMaaria
 293_08-Dec-2017_Blaziken_JonnaMaaria
 294_08-Dec-2017_Mudkip
 295_08-Dec-2017_Marshtomp_jeeee7
@@ -302,7 +302,7 @@
 299_08-Dec-2017_Zigzagoon_JonnaMaaria
 300_08-Dec-2017_Linoone_kuhilasvaara
 301_08-Dec-2017_Wurmple_kuhilasvaara
-302_08-Dec-2017_Silcoon
+302_08-Dec-2017_Silcoon_JonnaMaaria
 303_08-Dec-2017_Beautifly_JonnaMaaria
 304_08-Dec-2017_Cascoon_kuhilasvaara
 305_08-Dec-2017_Dustox_Simpanssi93
@@ -933,7 +933,7 @@
 927_01-Feb-2020_Purified_Raikou
 928_02-Feb-2020_Minccino_BarleFIN
 929_02-Feb-2020_Cinccino_Tarliu
-930_03-Feb-2020_Shadow_Vulpix
+930_03-Feb-2020_Shadow_Vulpix_sirkkana
 931_03-Feb-2020_Purified_Vulpix_chocoSaana
 932_03-Feb-2020_Shadow_Ninetales
 933_03-Feb-2020_Purified_Ninetales_Vilipoke7
