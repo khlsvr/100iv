@@ -418,7 +418,7 @@
 414_21-Jun-2018_Alolan_Sandshrew_AstralSquirrel
 415_21-Jun-2018_Alolan_Sandslash
 416_21-Jun-2018_Alolan_Vulpix_Nitatsupikatsu
-417_21-Jun-2018_Alolan_Ninetales
+417_21-Jun-2018_Alolan_Ninetales_kuhilasvaara
 418_21-Jun-2018_Alolan_Meowth_Riksu91
 419_21-Jun-2018_Alolan_Persian
 420_21-Jun-2018_Alolan_Grimer
@@ -862,10 +862,10 @@
 857_24-Dec-2019_Winter_hat_Pichu_BarleFIN
 858_24-Dec-2019_Winter_hat_Pikachu_Kristiina0306
 859_24-Dec-2019_Winter_hat_Raichu
-860_24-Dec-2019_Holiday_Stantler
-861_24-Dec-2019_Cubchoo
+860_24-Dec-2019_Holiday_Stantler_jeeee7
+861_24-Dec-2019_Cubchoo_kuhilasvaara
 862_24-Dec-2019_Beartic_JonnaMaaria
-863_24-Dec-2019_Cryogonal
+863_24-Dec-2019_Cryogonal_JonnaMaaria
 864_24-Dec-2019_Shadow_Delibird
 865_24-Dec-2019_Purified_Delibird
 866_24-Dec-2019_Shadow_Stantler
@@ -1053,7 +1053,7 @@
 1047_10-Jul-2020_Shadow_Suicune
 1048_10-Jul-2020_Purified_Suicune
 1049_10-Jul-2020_Shadow_Stunky
-1050_10-Jul-2020_Purified_Stunky
+1050_10-Jul-2020_Purified_Stunky_JonnaMaaria
 1051_10-Jul-2020_Shadow_Skuntank
 1052_10-Jul-2020_Purified_Skuntank_Kristiina0306
 1053_10-Jul-2020_Shadow_Gliscor
@@ -1152,15 +1152,27 @@
 1146_02-Dec-2020_Greninja
 1147_02-Dec-2020_Bunnelby_Pete5189
 1148_02-Dec-2020_Diggersby
-1149_02-Dec-2020_Fletchling
+1149_02-Dec-2020_Fletchling_Emerentia280
 1150_02-Dec-2020_Fletchinder
 1151_02-Dec-2020_Talonflame
-1152_02-Dec-2020_Litleo
+1152_02-Dec-2020_Litleo_JonnaMaaria
 1153_02-Dec-2020_Pyroar
 1154_02-Dec-2020_Klefki
 1155_02-Dec-2020_Noibat
 1156_02-Dec-2020_Noivern
 1157_14-Dec-2020_Explorer_Pikachu_JonnaMaaria
-
+1158_19-Dec-2020_Galarian_Mr_Mime
+1159_19-Dec-2020_Mr_Rime
+1160_22-Dec-2020_Holiday_Pikachu
+1161_22-Dec-2020_Holiday_Delibird_kuhilasvaara
+1162_22-Dec-2020_Holiday_Cubchoo_Hannaleea
+1163_22-Dec-2020_Vanillite
+1164_22-Dec-2020_Vanillish
+1165_22-Dec-2020_Vanilluxe
+1166_31-Dec-2020_New_Year_Pichu
+1167_31-Dec-2020_New_Year_Pikachu_JonnaMaaria
+1168_31-Dec-2020_New_Year_Raichu_kjuuva
+1169_31-Dec-2020_New_Year_Slowpoke_vipd3s
+1170_31-Dec-2020_New_Year_Slowbro_JonnaMaaria
 
 
