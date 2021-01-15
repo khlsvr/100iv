@@ -16,7 +16,7 @@
 14_06-Jul-2016_Kakuna_Tarliu
 15_06-Jul-2016_Beedrill_JonnaMaaria
 16_06-Jul-2016_Pidgey_Tupladekki
-17_06-Jul-2016_Pidgeotto
+17_06-Jul-2016_Pidgeotto_kuhilasvaara
 18_06-Jul-2016_Pidgeot
 19_06-Jul-2016_Rattata_Teijahunter
 20_06-Jul-2016_Raticate_jeeee7
@@ -197,7 +197,7 @@
 194_16-Feb-2017_Wooper_pmutka
 195_16-Feb-2017_Quagsire_jeeee7
 196_16-Feb-2017_Espeon_kuhilasvaara
-197_16-Feb-2017_Umbreon
+197_16-Feb-2017_Umbreon_kuhilasvaara
 198_16-Feb-2017_Murkrow_JonnaMaaria
 199_16-Feb-2017_Slowking_Bambjuu
 200_16-Feb-2017_Misdreavus_kuhilasvaara
@@ -307,7 +307,7 @@
 304_08-Dec-2017_Cascoon_kuhilasvaara
 305_08-Dec-2017_Dustox_Simpanssi93
 306_08-Dec-2017_Seedot_kjuuva
-307_08-Dec-2017_Nuzleaf
+307_08-Dec-2017_Nuzleaf_kuhilasvaara
 308_08-Dec-2017_Shiftry_Katjuzkaah
 309_08-Dec-2017_Ralts_Harskamon
 310_08-Dec-2017_Kirlia_kuhilasvaara
@@ -373,7 +373,7 @@
 369_23-Jan-2018_Numel_JonnaMaaria
 370_23-Jan-2018_Camerupt_Bambjuu
 371_23-Jan-2018_Torkoal
-372_23-Jan-2018_Trapinch
+372_23-Jan-2018_Trapinch_s0larbeam
 373_23-Jan-2018_Vibrava
 374_23-Jan-2018_Flygon_JonnaMaaria
 375_23-Jan-2018_Cacnea_kuhilasvaara
@@ -399,7 +399,7 @@
 395_09-Feb-2018_Castform_normal_kuhilasvaara
 396_09-Feb-2018_Castform_sunny_kuhilasvaara
 397_09-Feb-2018_Castform_rainy_jeeee7
-398_09-Feb-2018_Castform_snowy
+398_09-Feb-2018_Castform_snowy_kuhilasvaara
 399_09-Feb-2018_Tropius
 400_09-Feb-2018_Chimecho_Teijahunter
 401_09-Feb-2018_Bagon
@@ -745,7 +745,7 @@
 740_16-Sep-2019_Amoonguss_JonnaMaaria
 741_16-Sep-2019_Ferroseed
 742_16-Sep-2019_Ferrothorn_1954Erik
-743_16-Sep-2019_Klink
+743_16-Sep-2019_Klink_MeiMaaria
 744_16-Sep-2019_Klang
 745_16-Sep-2019_Klinklang_Harskamon
 746_16-Sep-2019_Litwick
@@ -805,7 +805,7 @@
 800_17-Oct-2019_Shadow_Shuppet
 801_17-Oct-2019_Purified_Shuppet_melankoliaharakka
 802_17-Oct-2019_Shadow_Banette
-803_17-Oct-2019_Purified_Banette
+803_17-Oct-2019_Purified_Banette_JonnaMaaria
 804_17-Oct-2019_Shadow_Duskull
 805_17-Oct-2019_Purified_Duskull
 806_17-Oct-2019_Shadow_Dusclops
@@ -1113,7 +1113,7 @@
 1107_12-Oct-2020_Shadow_Aerodactyl
 1108_12-Oct-2020_Purified_Aerodactyl
 1109_12-Oct-2020_Shadow_Hoppip
-1110_12-Oct-2020_Purified_Hoppip
+1110_12-Oct-2020_Purified_Hoppip_Kristiina0306
 1111_12-Oct-2020_Shadow_Skiploom
 1112_12-Oct-2020_Purified_Skiploom
 1113_12-Oct-2020_Shadow_Jumpluff
@@ -1166,7 +1166,7 @@
 1160_22-Dec-2020_Holiday_Pikachu
 1161_22-Dec-2020_Holiday_Delibird_kuhilasvaara
 1162_22-Dec-2020_Holiday_Cubchoo_Hannaleea
-1163_22-Dec-2020_Vanillite
+1163_22-Dec-2020_Vanillite_Kristiina0306
 1164_22-Dec-2020_Vanillish
 1165_22-Dec-2020_Vanilluxe
 1166_31-Dec-2020_New_Year_Pichu
