@@ -163,7 +163,7 @@
 160_16-Feb-2017_Cyndaquil_Emerentia280
 161_16-Feb-2017_Quilava
 162_16-Feb-2017_Typhlosion_jeeee7
-163_16-Feb-2017_Totodile
+163_16-Feb-2017_Totodile_jeeee7
 164_16-Feb-2017_Croconaw
 165_16-Feb-2017_Feraligatr
 166_16-Feb-2017_Sentret_kuhilasvaara
@@ -290,11 +290,11 @@
 287_27-Nov-2017_Ho-Oh_Emerentia280
 288_08-Dec-2017_Treecko_JonnaMaaria
 289_08-Dec-2017_Grovyle_Kristiina0306
-290_08-Dec-2017_Sceptile
+290_08-Dec-2017_Sceptile_tonisilli
 291_08-Dec-2017_Torchic_jeeee7
 292_08-Dec-2017_Combusken_JonnaMaaria
 293_08-Dec-2017_Blaziken_JonnaMaaria
-294_08-Dec-2017_Mudkip
+294_08-Dec-2017_Mudkip_kuhilasvaara
 295_08-Dec-2017_Marshtomp_jeeee7
 296_08-Dec-2017_Swampert_JonnaMaaria
 297_08-Dec-2017_Poochyena_Dreamful2
@@ -345,7 +345,7 @@
 342_21-Dec-2017_Lombre_kuhilasvaara
 343_21-Dec-2017_Ludicolo_larehunter1966
 344_21-Dec-2017_Carvanha_Maruslar
-345_21-Dec-2017_Sharpedo
+345_21-Dec-2017_Sharpedo_JonnaMaaria
 346_21-Dec-2017_Wailmer_moogleheksa
 347_21-Dec-2017_Wailord_Hannaleea
 348_21-Dec-2017_Barboach_JonnaMaaria
@@ -374,7 +374,7 @@
 370_23-Jan-2018_Camerupt_Bambjuu
 371_23-Jan-2018_Torkoal
 372_23-Jan-2018_Trapinch_s0larbeam
-373_23-Jan-2018_Vibrava
+373_23-Jan-2018_Vibrava_MeiMaaria
 374_23-Jan-2018_Flygon_JonnaMaaria
 375_23-Jan-2018_Cacnea_kuhilasvaara
 376_23-Jan-2018_Cacturne_Riskela
@@ -541,7 +541,7 @@
 536_16-Feb-2019_Mamoswine_vipd3s
 537_23-Feb-2019_Clamperl_Teijahunter
 538_23-Feb-2019_Huntail
-539_23-Feb-2019_Gorebyss
+539_23-Feb-2019_Gorebyss_Laaawra
 540_25-Feb-2019_Smeargle_Riksu91
 541_26-Feb-2019_Flower_crown_Pikachu_Bambjuu
 542_26-Feb-2019_Flower_crown_Raichu
@@ -661,7 +661,7 @@
 656_01-Aug-2019_Shadow_Scizor
 657_01-Aug-2019_Purified_Scizor
 658_01-Aug-2019_Shadow_Houndour_SamuFinland
-659_01-Aug-2019_Purified_Houndour
+659_01-Aug-2019_Purified_Houndour_Harskamon
 660_01-Aug-2019_Shadow_Houndoom
 661_01-Aug-2019_Purified_Houndoom_Tarliu
 662_08-Aug-2019_Shadow_Ralts
@@ -677,7 +677,7 @@
 672_05-Sep-2019_Shadow_Gloom
 673_05-Sep-2019_Purified_Gloom
 674_05-Sep-2019_Shadow_Vileplume
-675_05-Sep-2019_Purified_Vileplume
+675_05-Sep-2019_Purified_Vileplume_Laaawra
 676_05-Sep-2019_Shadow_Venonat
 677_05-Sep-2019_Purified_Venonat
 678_05-Sep-2019_Shadow_Venomoth
@@ -748,7 +748,7 @@
 743_16-Sep-2019_Klink_MeiMaaria
 744_16-Sep-2019_Klang
 745_16-Sep-2019_Klinklang_Harskamon
-746_16-Sep-2019_Litwick
+746_16-Sep-2019_Litwick_tonisilli
 747_16-Sep-2019_Lampent
 748_16-Sep-2019_Chandelure
 749_16-Sep-2019_Golett
@@ -926,7 +926,7 @@
 920_24-Jan-2020_Darumaka_Bambjuu
 921_24-Jan-2020_Darmanitan_Kristiina0306
 922_29-Jan-2020_Scraggy_Vilkaskurre
-923_29-Jan-2020_Scrafty
+923_29-Jan-2020_Scrafty_Laaawra
 924_01-Feb-2020_Woobat_Bambjuu
 925_01-Feb-2020_Swoobat_JonnaMaaria
 926_01-Feb-2020_Shadow_Raikou
@@ -1144,7 +1144,7 @@
 1138_02-Dec-2020_Chespin
 1139_02-Dec-2020_Quilladin
 1140_02-Dec-2020_Chesnaught
-1141_02-Dec-2020_Fennekin
+1141_02-Dec-2020_Fennekin_kuhilasvaara
 1142_02-Dec-2020_Braixen
 1143_02-Dec-2020_Delphox
 1144_02-Dec-2020_Froakie
