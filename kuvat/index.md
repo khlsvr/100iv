@@ -2,11 +2,11 @@ Title: 100iv
 
 5 tuoreinta lisäystä:
 
-    Phanpy - JonnaMaaria
-    Plusle - MeiMaaria
-    Pyroar - JonnaMaaria
-    Gothitelle - kjuuva
-    Horsea - MeiMaaria
+    Shadow Exeggcute - MeiMaaria
+    Kadabra - JonnaMaaria
+    Diggersby - MeiMaaria
+    Deerling spring form - MeiMaaria
+    Probopass - AstralSquirrel
 
 [100iv list](static/content/release_order_100ivlist.txt)  
 [trade-rimpsu](static/content/trade_string.txt)  
