@@ -1,0 +1,536 @@
+Gen1
+Squirtle
+Pidgeotto
+Pidgeot
+Kadabra
+Geodude
+Graveler
+Magnemite
+Magneton
+Hypno
+Krabby
+Kangaskhan
+Horsea
+Seadra
+Seaking
+Tauros
+Articuno
+Mew
+
+Gen2
+Quilava
+Totodile
+Croconaw
+Feraligatr
+Ledyba
+Spinarak
+Chinchou
+Togepi
+Togetic
+Sudowoodo
+Skiploom
+Jumpluff
+Umbreon
+Unown B
+Unown C
+Unown D
+Unown E
+Unown F
+Unown H
+Unown I
+Unown J
+Unown K
+Unown L
+Unown M
+Unown N
+Unown O
+Unown P
+Unown Q
+Unown R
+Unown S
+Unown T
+Unown U
+Unown V
+Unown W
+Unown X
+Unown Y
+Unown Z
+Heracross
+Slugma
+Corsola
+Octillery
+Phanpy
+Donphan
+Magby
+Celebi
+
+Gen3
+Sceptile
+Mudkip
+Nuzleaf
+Wingull
+Pelipper
+Vigoroth
+Ninjask
+Plusle
+Sharpedo
+Torkoal
+Spinda #1
+Spinda #2
+Spinda #4
+Spinda #5
+Spinda #6
+Spinda #8
+Spinda #9
+Trapinch
+Vibrava
+Castform snowy
+Duskull
+Dusclops
+Tropius
+Absol
+Huntail
+Gorebyss
+Relicanth
+Bagon
+Shelgon
+Beldum
+Metang
+Latias
+Jirachi
+Deoxys attack
+Deoxys defence
+
+Gen4
+Burmy sandy
+Wormadam plant
+Wormadam trash
+Vespiquen
+Pachirisu
+Shellos west sea
+Gastrodon west sea
+Gastrodon east sea
+Chingling
+Chatot
+Gabite
+Drapion
+Carnivine
+Finneon
+Lumineon
+Mantyke
+Weavile
+Gliscor
+Probopass
+Dusknoir
+Froslass
+Rotom wash
+Uxie
+Azelf
+Dialga
+Regigigas
+Giratina origin
+Darkrai
+
+Gen5
+Serperior
+Pansage
+Simisage
+Panpour
+Simipour
+Timburr
+Gurdurr
+Throh
+Sewaddle
+Swadloon
+Leavanny
+Petilil
+Lilligant
+Basculin
+Sandile
+Krokorok
+Krookodile
+Maractus
+Scrafty
+Sigilyph
+Tirtouga
+Carracosta
+Archen
+Archeops
+Gothitelle
+Solosis
+Duosion
+Alomomola
+Galvantula
+Ferroseed
+Klink
+Klang
+Elgyem
+Litwick
+Lampent
+Chandelure
+Axew
+Fraxure
+Haxorus
+Cubchoo
+Cryogonal
+Stunfisk
+Golett
+Pawniard
+Bisharp
+Bouffalant
+Rufflet
+Braviary
+Vullaby
+Mandibuzz
+Heatmor
+Durant
+Hydreigon
+Zekrom
+Landorus
+
+Alola & Galar
+Alolan Sandslash
+Alolan Ninetales
+Alolan Persian
+Alolan Grimer
+Galarian Weezing
+Galarian Meowth
+Galarian Zigzagoon
+Galarian Linoone
+Obstagoon
+Galarian Darumaka
+Galarian Darmanitan
+Galarian Farfetch'd
+
+Eventtipoksut
+Festive hat Raichu
+Party hat Pikachu
+Party hat Raichu
+Ash hat Pichu
+Witch hat Pichu
+Witch hat Pikachu
+Witch hat Raichu
+Festive hat Pichu
+Summer hat Pikachu
+Summer hat Raichu
+Sunglasses Squirtle
+Sunglasses Wartortle
+Fragment hat Pikachu
+Fragment hat Raichu
+Flower crown Raichu
+Flower crown Vaporeon
+Flower crown Jolteon
+Flower crown Flareon
+Flower crown Espeon
+Flower crown Umbreon
+Detective Pikachu
+Detective Raichu
+Flower crown Leafeon
+Flower crown Glaceon
+Straw hat Pikachu
+Shedinja hat Bulbasaur
+Yamask hat Squirtle
+Winter hat Raichu
+Holiday Stantler
+Party hat Raticate
+Party hat Wobbuffet
+Party hat Wurmple
+Red party hat Bulbasaur
+Red party hat Charmander
+Red party hat Squirtle
+Red party hat Pikachu
+Red party hat Eevee
+Clone Venusaur
+Clone Blastoise
+Clone Pikachu
+Red party hat Nidorino
+Red party hat Gengar
+Pikachu Libre
+Spring hat Pikachu
+Flower crown Pichu
+Flower crown Togepi
+Flower crown Buneary
+Charizard hat Pikachu
+Umbreon hat Pikachu
+Lucario hat Pikachu
+Pikachu visor Charmander
+Pikachu visor Squirtle
+Bowler hat and bowtie Kirlia
+World cap Pikachu
+World cap Raichu
+
+Shadow & Purified
+Shadow Bulbasaur
+Purified Bulbasaur
+Shadow Venusaur
+Shadow Charmander
+Purified Charmander
+Shadow Charmeleon
+Purified Charmeleon
+Shadow Charizard
+Shadow Squirtle
+Purified Squirtle
+Shadow Wartortle
+Purified Wartortle
+Shadow Blastoise
+Purified Blastoise
+Shadow Rattata
+Shadow Raticate
+Shadow Zubat
+Shadow Snorlax
+Shadow Dratini
+Purified Dratini
+Shadow Dragonair
+Purified Dragonair
+Shadow Dragonite
+Purified Dragonite
+Shadow Crobat
+Shadow Mudkip
+Shadow Marshtomp
+Shadow Swampert
+Shadow Poliwag
+Purified Poliwag
+Shadow Poliwhirl
+Shadow Poliwrath
+Purified Poliwrath
+Shadow Grimer
+Shadow Muk
+Shadow Drowzee
+Shadow Hypno
+Shadow Cubone
+Purified Cubone
+Shadow Marowak
+Shadow Scyther
+Purified Scyther
+Shadow Magikarp
+Shadow Gyarados
+Purified Gyarados
+Shadow Politoed
+Shadow Scizor
+Purified Scizor
+Purified Houndour
+Shadow Houndoom
+Shadow Ralts
+Purified Ralts
+Shadow Kirlia
+Shadow Gardevoir
+Purified Gardevoir
+Shadow Gallade
+Purified Gallade
+Shadow Oddish
+Shadow Gloom
+Purified Gloom
+Shadow Vileplume
+Purified Vileplume
+Shadow Venonat
+Purified Venonat
+Shadow Venomoth
+Shadow Psyduck
+Purified Psyduck
+Shadow Golduck
+Shadow Growlithe
+Shadow Arcanine
+Purified Arcanine
+Shadow Abra
+Purified Abra
+Shadow Kadabra
+Purified Kadabra
+Shadow Alakazam
+Purified Alakazam
+Shadow Hitmonchan
+Shadow Bellossom
+Shadow Larvitar
+Purified Larvitar
+Shadow Pupitar
+Shadow Tyranitar
+Purified Tyranitar
+Shadow Turtwig
+Shadow Grotle
+Purified Grotle
+Shadow Torterra
+Purified Torterra
+Shadow Weedle
+Purified Weedle
+Shadow Kakuna
+Purified Kakuna
+Shadow Beedrill
+Purified Beedrill
+Shadow Electabuzz
+Shadow Magmar
+Purified Magmar
+Shadow Mareep
+Purified Mareep
+Shadow Flaaffy
+Purified Flaaffy
+Shadow Ampharos
+Purified Ampharos
+Shadow Seedot
+Purified Seedot
+Shadow Nuzleaf
+Purified Nuzleaf
+Shadow Shiftry
+Purified Shiftry
+Shadow Sableye
+Purified Sableye
+Shadow Trapinch
+Purified Trapinch
+Shadow Vibrava
+Purified Vibrava
+Shadow Flygon
+Purified Flygon
+Shadow Cacnea
+Purified Cacnea
+Shadow Cacturne
+Purified Cacturne
+Shadow Shuppet
+Purified Shuppet
+Shadow Banette
+Purified Banette
+Shadow Duskull
+Purified Duskull
+Shadow Dusclops
+Purified Dusclops
+Shadow Electivire
+Shadow Magmortar
+Purified Magmortar
+Shadow Dusknoir
+Purified Dusknoir
+Shadow Sandshrew
+Shadow Sandslash
+Shadow Meowth
+Purified Meowth
+Shadow Persian
+Purified Persian
+Shadow Bellsprout
+Purified Bellsprout
+Shadow Weepinbell
+Shadow Victreebel
+Purified Victreebell
+Shadow Magnemite
+Purified Magnemite
+Shadow Magneton
+Shadow Hitmonlee
+Shadow Porygon
+Purified Porygon
+Shadow Articuno
+Purified Articuno
+Shadow Wobbuffet
+Purified Wobbuffet
+Shadow Sneasel
+Purified Sneasel
+Shadow Porygon2
+Purified Porygon2
+Shadow Weavile
+Shadow Magnezone
+Purified Magnezone
+Shadow Porygon-Z
+Purified Porygon-Z
+Shadow Zapdos
+Purified Zapdos
+Shadow Delibird
+Purified Delibird
+Shadow Stantler
+Purified Stantler
+Shadow Absol
+Shadow Bagon
+Purified Bagon
+Shadow Shelgon
+Purified Shelgon
+Shadow Salamence
+Purified Salamence
+Shadow Snover
+Purified Snover
+Shadow Abomasnow
+Purified Abomasnow
+Shadow Moltres
+Purified Moltres
+Shadow Raikou
+Purified Raikou
+Shadow Ninetales
+Purified Ninetales
+Shadow Exeggcute
+Purified Exeggcute
+Shadow Exeggutor
+Shadow Pinsir
+Shadow Omanyte
+Purified Omanyte
+Shadow Omastar
+Purified Omastar
+Shadow Misdreavus
+Shadow Mawile
+Shadow Carvanha
+Purified Carvanha
+Shadow Sharpedo
+Shadow Beldum
+Purified Beldum
+Shadow Metang
+Purified Metang
+Shadow Metagross
+Purified Metagross
+Shadow Mismagius
+Purified Mismagius
+Shadow Entei
+Purified Entei
+Purified Ekans
+Shadow Arbok
+Purified Arbok
+Shadow Koffing
+Shadow Weezing
+Shadow Nidoran F
+Purified Nidoran F
+Shadow Nidorina
+Shadow Nidoqueen
+Purified Nidoqueen
+Shadow Nidoran M
+Shadow Nidorino
+Purified Nidorino
+Shadow Nidoking
+Purified Nidoking
+Shadow Machop
+Purified Machop
+Shadow Machoke
+Purified Machoke
+Shadow Pineco
+Purified Pineco
+Shadow Forretress
+Purified Forretress
+Shadow Gligar
+Purified Gligar
+Shadow Shuckle
+Purified Shuckle
+Shadow Suicune
+Purified Suicune
+Shadow Stunky
+Purified Stunky
+Shadow Skuntank
+Purified Skuntank
+Shadow Gliscor
+Purified Mewtwo
+Shadow Diglett
+Purified Diglett
+Shadow Dugtrio
+Purified Dugtrio
+Shadow Slowpoke
+Purified Slowpoke
+Shadow Slowbro
+Purified Slowbro
+Shadow Shellder
+Purified Shellder
+Shadow Cloyster
+Purified Cloyster
+Shadow Aerodactyl
+Purified Aerodactyl
+Shadow Hoppip
+Purified Hoppip
+Shadow Skiploom
+Purified Skiploom
+Shadow Jumpluff
+Purified Jumpluff
+Shadow Slowking
+Purified Slowking
+Shadow Teddiursa
+Shadow Ursaring
+Purified Ursaring
+Shadow Skarmory
+Purified Skarmory
+
