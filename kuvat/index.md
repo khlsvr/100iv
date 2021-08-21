@@ -8,7 +8,7 @@ Title: 100iv
     Deerling spring form - MeiMaaria
     Probopass - AstralSquirrel
 
-[100iv list](misc/release_order_100ivlist.txt)  
-[trade-rimpsu](misc/trade_string.txt)  
+[100iv list](https://raw.githubusercontent.com/khlsvr/100iv/master/misc/release_order_100ivlist.txt)  
+[trade-rimpsu](https://raw.githubusercontent.com/khlsvr/100iv/master/misc/trade_string.txt)  
 [shiny-katalogi](https://khlsvr.github.io/shiny/)  
 
