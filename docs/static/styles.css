@@ -5,8 +5,8 @@ html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, 
 
 @font-face {
     font-family: 'kenyan';
-    src: url('../../misc/kenyan_coffee_rg-webfont.woff2') format('woff2'),
-         url('../../misc/kenyan_coffee_rg-webfont.woff') format('woff');
+    src: url('https://github.com/khlsvr/100iv/raw/master/misc/kenyan_coffee_rg-webfont.woff2') format('woff2'),
+         url('https://github.com/khlsvr/100iv/raw/master/misc/kenyan_coffee_rg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
