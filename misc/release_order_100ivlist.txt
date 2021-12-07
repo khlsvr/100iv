@@ -430,7 +430,7 @@
 426_05-Jul-2018_Summer_hat_Pikachu
 427_05-Jul-2018_Summer_hat_Raichu
 428_08-Jul-2018_Sunglasses_Squirtle
-429_08-Jul-2018_Sunglasses_Wartortle
+429_08-Jul-2018_Sunglasses_Wartortle_JonnaMaaria
 430_08-Jul-2018_Sunglasses_Blastoise_kuhilasvaara
 431_14-Jul-2018_Alolan_Diglett_jeeee7
 432_14-Jul-2018_Alolan_Dugtrio_Hannaleea
@@ -705,7 +705,7 @@
 700_05-Sep-2019_Shadow_Pupitar
 701_05-Sep-2019_Purified_Pupitar_jeeee7
 702_05-Sep-2019_Shadow_Tyranitar
-703_05-Sep-2019_Purified_Tyranitar
+703_05-Sep-2019_Purified_Tyranitar_Vanillaharakka
 704_05-Sep-2019_Shadow_Turtwig
 705_05-Sep-2019_Purified_Turtwig_Riskela
 706_05-Sep-2019_Shadow_Grotle
@@ -763,13 +763,13 @@
 758_17-Oct-2019_Shedinja_hat_Bulbasaur
 759_17-Oct-2019_Cubone_hat_Charmander_Hannaleea
 760_17-Oct-2019_Yamask_hat_Squirtle
-761_17-Oct-2019_Darkrai
+761_17-Oct-2019_Darkrai_MeiMaaria
 762_17-Oct-2019_Yamask_Dreamful2
 763_17-Oct-2019_Cofagrigus_vipd3s
 764_17-Oct-2019_Shadow_Weedle
 765_17-Oct-2019_Purified_Weedle
 766_17-Oct-2019_Shadow_Kakuna
-767_17-Oct-2019_Purified_Kakuna
+767_17-Oct-2019_Purified_Kakuna_JonnaMaaria
 768_17-Oct-2019_Shadow_Beedrill
 769_17-Oct-2019_Purified_Beedrill
 770_17-Oct-2019_Shadow_Electabuzz
@@ -827,7 +827,7 @@
 822_07-Nov-2019_Shadow_Persian
 823_07-Nov-2019_Purified_Persian
 824_07-Nov-2019_Shadow_Bellsprout
-825_07-Nov-2019_Purified_Bellsprout
+825_07-Nov-2019_Purified_Bellsprout_JonnaMaaria
 826_07-Nov-2019_Shadow_Weepinbell
 827_07-Nov-2019_Purified_Weepinbell_Tarliu
 828_07-Nov-2019_Shadow_Victreebel
@@ -1033,7 +1033,7 @@
 1027_10-Jul-2020_Shadow_Nidoran_M
 1028_10-Jul-2020_Purified_Nidoran_M_Riskela
 1029_10-Jul-2020_Shadow_Nidorino
-1030_10-Jul-2020_Purified_Nidorino
+1030_10-Jul-2020_Purified_Nidorino_JonnaMaaria
 1031_10-Jul-2020_Shadow_Nidoking
 1032_10-Jul-2020_Purified_Nidoking
 1033_10-Jul-2020_Shadow_Machop
@@ -1107,7 +1107,7 @@
 1101_12-Oct-2020_Shadow_Slowbro
 1102_12-Oct-2020_Purified_Slowbro
 1103_12-Oct-2020_Shadow_Shellder
-1104_12-Oct-2020_Purified_Shellder
+1104_12-Oct-2020_Purified_Shellder_Harskamon
 1105_12-Oct-2020_Shadow_Cloyster
 1106_12-Oct-2020_Purified_Cloyster
 1107_12-Oct-2020_Shadow_Aerodactyl
@@ -1129,7 +1129,7 @@
 1123_22-Oct-2020_Galarian_Ponyta_JonnaMaaria
 1124_22-Oct-2020_Galarian_Rapidash
 1125_22-Oct-2020_Sirfetch'd_kuhilasvaara
-1126_23-Oct-2020_Mega_Gengar
+1126_23-Oct-2020_Mega_Gengar_JonnaMaaria
 1127_23-Oct-2020_Mega_Banette-costumed_Gengar_sirkkana
 1128_23-Oct-2020_Litwick_hat_Sableye
 1129_23-Oct-2020_Galarian_Yamask_Kristiina0306
@@ -1217,7 +1217,7 @@
 1210_01-Mar-2021_Frillish_female
 1211_01-Mar-2021_Jellicent_female
 1212_16-Mar-2021_Thundurus_Therian_Forme
-1213_16-Mar-2021_Mega_Manectric
+1213_16-Mar-2021_Mega_Manectric_MeiMaaria
 1214_16-Mar-2021_Tynamo
 1215_16-Mar-2021_Eelektrik
 1216_16-Mar-2021_Eelektross
@@ -1276,7 +1276,7 @@
 1269_18-May-2021_Shadow_Manectric
 1270_18-May-2021_Purified_Manectric
 1271_18-May-2021_Shadow_Starly
-1272_18-May-2021_Purified_Starly
+1272_18-May-2021_Purified_Starly_JonnaMaaria
 1273_18-May-2021_Shadow_Staravia
 1274_18-May-2021_Purified_Staravia
 1275_18-May-2021_Shadow_Staraptor
@@ -1284,7 +1284,7 @@
 1277_18-May-2021_Shadow_Honchkrow
 1278_18-May-2021_Purified_Honchkrow
 1279_18-May-2021_Shadow_Skorupi
-1280_18-May-2021_Purified_Skorupi
+1280_18-May-2021_Purified_Skorupi_MeiMaaria
 1281_18-May-2021_Shadow_Drapion
 1282_18-May-2021_Purified_Drapion
 1283_18-May-2021_Shadow_Tangrowth
@@ -1353,3 +1353,6 @@
 1346_16-Nov-2021_Dawn_hat_Turtwig
 1347_16-Nov-2021_Dawn_hat_Chimchar_JonnaMaaria
 1348_16-Nov-2021_Dawn_hat_Piplup
+1349_26-Nov-2021_Hoopa_Unbound
+1350_01-Dec-2021_Mega_Steelix
+1351_07-Dec-2021_Druddigon
