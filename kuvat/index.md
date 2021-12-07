@@ -2,11 +2,11 @@ Title: 100iv
 
 5 tuoreinta lisäystä:
 
-    Seadra - MeiMaaria
-    Dawn hat Chimchar - JonnaMaaria
-    Quilladin - JonnaMaaria
-    Purified Mismagius - MeiMaaria
-    Aromatisse - kuhilasvaara
+    Purified Tyranitar - Vanillaharakka
+    Sunglasses Wartortle - JonnaMaaria
+    Mega Gengar - JonnaMaaria
+    Mega Manectric - MeiMaaria
+    Darkrai - MeiMaaria
 
 [100iv list](https://raw.githubusercontent.com/khlsvr/100iv/master/misc/release_order_100ivlist.txt)  
 [trade-rimpsu](https://raw.githubusercontent.com/khlsvr/100iv/master/misc/trade_string.txt)  
